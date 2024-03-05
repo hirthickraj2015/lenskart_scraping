@@ -2,879 +2,6 @@
   "category_name": "Eyeglasses",
   "product_list": [
     {
-      "id": "212868",
-      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/rose-gold-purple-rose-gold-full-rim-rectangle-vincent-chase-sleek-steel-vc-e16455-c2-eyeglasses_img_0879_12_jan24.jpg",
-      "image_url_suffix": "/v/i/rose-gold-purple-rose-gold-full-rim-rectangle-vincent-chase-sleek-steel-vc-e16455-c2-eyeglasses_img_0879_12_jan24.jpg",
-      "imageUrls": [],
-      "product_url": "https://www.lenskart.com/vincent-chase-vc-e16455-c2-eyeglasses.html",
-      "color": "Gunmetal",
-      "size": "Wide",
-      "width": "138 mm",
-      "brand_name": "Vincent Chase",
-      "brand_name_en": "Vincent Chase",
-      "model_name": "VC E16455",
-      "prices": [
-        {
-          "name": "Market Price",
-          "currency_code": "INR",
-          "price": 1700
-        },
-        {
-          "name": "Lenskart Price",
-          "currency_code": "INR",
-          "price": 1700
-        }
-      ],
-      "is_tbyb": false,
-      "tags": "Future Classics",
-      "color_options": [],
-      "totalColorAvailable": 0,
-      "is_ditto": false,
-      "classification": "eyeframe",
-      "specifications": [],
-      "wishlistCount": 0,
-      "purchaseCount": 69,
-      "avgRating": 0.0,
-      "hashtagList": [
-        {
-          "name": "Wide",
-          "id": 24069,
-          "property": "frame_size_id"
-        },
-        {
-          "name": "Rectangle",
-          "id": 11345,
-          "property": "frame_shape_id"
-        },
-        {
-          "name": "Vincent Chase",
-          "id": 10733,
-          "property": "brandname_id"
-        },
-        {
-          "name": "Full Rim",
-          "id": 11370,
-          "property": "frametype_id"
-        }
-      ],
-      "offerName": "VCEYE",
-      "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
-      "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/212868/android/sku_212868.glb",
-      "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/212868/ios/sku_212868.scn",
-      "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/212868/orignal/sku_212868.glb",
-      "qty": 1131,
-      "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/212868_bubble.png",
-      "subCollection": "Future Classics",
-      "subCollectionId": 27571,
-      "relatedItems": [],
-      "isCygnusEnabled": true,
-      "isCashbackApplicable": false,
-      "prescriptionType": []
-    },
-    {
-      "id": "213233",
-      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/brown-gold-brown-full-rim-round-vincent-chase-fashion-essentials-vc-s16536-c1-polarized-sunglasses_img_0640_24_01_2024.jpg",
-      "image_url_suffix": "/v/i/brown-gold-brown-full-rim-round-vincent-chase-fashion-essentials-vc-s16536-c1-polarized-sunglasses_img_0640_24_01_2024.jpg",
-      "imageUrls": [],
-      "product_url": "https://www.lenskart.com/vincent-chase-vc-s16536-c1-sunglasses.html",
-      "color": "Silver",
-      "size": "Medium",
-      "width": "140 mm",
-      "brand_name": "Vincent Chase Polarized",
-      "brand_name_en": "Vincent Chase Polarized",
-      "model_name": "VC S16536",
-      "prices": [
-        {
-          "name": "Market Price",
-          "currency_code": "INR",
-          "price": 1500
-        },
-        {
-          "name": "Lenskart Price",
-          "currency_code": "INR",
-          "price": 1500
-        }
-      ],
-      "is_tbyb": false,
-      "tags": "Fashion Essentials 2.0",
-      "color_options": [],
-      "totalColorAvailable": 0,
-      "is_ditto": false,
-      "classification": "sunglasses",
-      "specifications": [],
-      "wishlistCount": 0,
-      "purchaseCount": 86,
-      "avgRating": 0.0,
-      "hashtagList": [
-        {
-          "name": "Medium",
-          "id": 11341,
-          "property": "frame_size_id"
-        },
-        {
-          "name": "Round",
-          "id": 11346,
-          "property": "frame_shape_id"
-        },
-        {
-          "name": "Vincent Chase Polarized",
-          "id": 20958,
-          "property": "brandname_id"
-        },
-        {
-          "name": "Full Rim",
-          "id": 11370,
-          "property": "frametype_id"
-        }
-      ],
-      "offerName": "VCSUN",
-      "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
-      "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 1121,
-      "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/213233_bubble.png",
-      "subCollection": "Fashion Essentials 2.0",
-      "subCollectionId": 27721,
-      "relatedItems": [],
-      "isCygnusEnabled": false,
-      "isCashbackApplicable": false,
-      "prescriptionType": []
-    },
-    {
-      "id": "215345",
-      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/john-jacobs-jj-s16636-c2-sunglasses_img_3124_16_02_2024.jpg",
-      "image_url_suffix": "/j/i/john-jacobs-jj-s16636-c2-sunglasses_img_3124_16_02_2024.jpg",
-      "imageUrls": [],
-      "product_url": "https://www.lenskart.com/john-jacobs-jj-s16636-c2-sunglasses.html",
-      "color": "Green",
-      "size": "Medium",
-      "width": "137 mm",
-      "brand_name": "John Jacobs",
-      "brand_name_en": "John Jacobs",
-      "model_name": "JJ S16636",
-      "prices": [
-        {
-          "name": "Market Price",
-          "currency_code": "INR",
-          "price": 5000
-        },
-        {
-          "name": "Lenskart Price",
-          "currency_code": "INR",
-          "price": 5000
-        }
-      ],
-      "is_tbyb": false,
-      "tags": "John Jacobs",
-      "color_options": [],
-      "totalColorAvailable": 0,
-      "is_ditto": false,
-      "classification": "sunglasses",
-      "specifications": [],
-      "wishlistCount": 0,
-      "purchaseCount": 52,
-      "avgRating": 0.0,
-      "hashtagList": [
-        {
-          "name": "Medium",
-          "id": 11341,
-          "property": "frame_size_id"
-        },
-        {
-          "name": "Rectangle",
-          "id": 11345,
-          "property": "frame_shape_id"
-        },
-        {
-          "name": "John Jacobs",
-          "id": 10738,
-          "property": "brandname_id"
-        },
-        {
-          "name": "Full Rim",
-          "id": 11370,
-          "property": "frametype_id"
-        }
-      ],
-      "offerName": "JJSUN",
-      "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
-      "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 540,
-      "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/215345_bubble.png",
-      "subCollection": "Eco-Acetate",
-      "subCollectionId": 27191,
-      "relatedItems": [],
-      "isCygnusEnabled": true,
-      "isCashbackApplicable": false,
-      "prescriptionType": []
-    },
-    {
-      "id": "131002",
-      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/Matte-Black-Grey-Full-Rim-Aviator-Shape-Vincent-Chase-Polarized-VINTAGE-VC-5158-C99-Polarized-Sunglasses_P-C-99-sunglasses_P-C-99-sunglasses_j_147418_02_2022.jpg",
-      "image_url_suffix": "/v/i/Matte-Black-Grey-Full-Rim-Aviator-Shape-Vincent-Chase-Polarized-VINTAGE-VC-5158-C99-Polarized-Sunglasses_P-C-99-sunglasses_P-C-99-sunglasses_j_147418_02_2022.jpg",
-      "imageUrls": [],
-      "product_url": "https://www.lenskart.com/matte-black-grey-full-rim-aviator-shape-medium-size-58-vincent-chase-polarized-top-guns-vc-5158-c99-polarized-sunglasses.html",
-      "color": "Black",
-      "occasion": "Vacation",
-      "size": "Wide",
-      "width": "141 mm",
-      "suited_for": "",
-      "brand_name": "Vincent Chase Polarized",
-      "brand_name_en": "Vincent Chase Polarized",
-      "model_name": "VC 5158/P",
-      "prices": [
-        {
-          "name": "Market Price",
-          "currency_code": "INR",
-          "price": 1500
-        },
-        {
-          "name": "Lenskart Price",
-          "currency_code": "INR",
-          "price": 1500
-        }
-      ],
-      "is_tbyb": false,
-      "tags": "",
-      "color_options": [],
-      "totalColorAvailable": 0,
-      "is_ditto": true,
-      "classification": "sunglasses",
-      "specifications": [],
-      "wishlistCount": 4657,
-      "purchaseCount": 10465,
-      "avgRating": 4.4,
-      "totalNoOfRatings": "1131",
-      "hashtagList": [
-        {
-          "name": "Wide",
-          "id": 24069,
-          "property": "frame_size_id"
-        },
-        {
-          "name": "Aviator",
-          "id": 11348,
-          "property": "frame_shape_id"
-        },
-        {
-          "name": "Vincent Chase Polarized",
-          "id": 20958,
-          "property": "brandname_id"
-        },
-        {
-          "name": "Full Rim",
-          "id": 11370,
-          "property": "frametype_id"
-        }
-      ],
-      "offerName": "VCSUN",
-      "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
-      "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "arModelAndroidUrl": "",
-      "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/131002/ios/sku_131002.scn",
-      "arModelMsiteAndDesktopUrl": "NULL",
-      "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/131002/orignal/sku_131002.glb",
-      "qty": 359,
-      "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/131002_bubble.png",
-      "subCollection": "The Metal Edit",
-      "subCollectionId": 26621,
-      "inclusiveText": "",
-      "relatedItems": [],
-      "isCygnusEnabled": true,
-      "isCashbackApplicable": false,
-      "searchProductName": "Matte Black Aviator Full Rim Sunglasses",
-      "prescriptionType": []
-    },
-    {
-      "id": "148066",
-      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/black-full-rim-wayfarer-vincent-chase-style-cast-pc-vc-s13980-c3-polarized-sunglasses_vincent-chase-vc-s13980-c3-sunglasses_sunglasses_sunglasses_g_8735_28july23.jpg",
-      "image_url_suffix": "/v/i/black-full-rim-wayfarer-vincent-chase-style-cast-pc-vc-s13980-c3-polarized-sunglasses_vincent-chase-vc-s13980-c3-sunglasses_sunglasses_sunglasses_g_8735_28july23.jpg",
-      "imageUrls": [],
-      "product_url": "https://www.lenskart.com/vincent-chase-vc-s13980-c3-sunglasses.html",
-      "color": "Black",
-      "size": "Wide",
-      "width": "143 mm",
-      "brand_name": "Vincent Chase Polarized",
-      "brand_name_en": "Vincent Chase Polarized",
-      "model_name": "VC S13980",
-      "prices": [
-        {
-          "name": "Market Price",
-          "currency_code": "INR",
-          "price": 2000
-        },
-        {
-          "name": "Lenskart Price",
-          "currency_code": "INR",
-          "price": 2000
-        }
-      ],
-      "is_tbyb": false,
-      "tags": "",
-      "color_options": [],
-      "totalColorAvailable": 0,
-      "is_ditto": true,
-      "classification": "sunglasses",
-      "specifications": [],
-      "wishlistCount": 1478,
-      "purchaseCount": 8089,
-      "avgRating": 4.6,
-      "totalNoOfRatings": "11",
-      "hashtagList": [
-        {
-          "name": "Wide",
-          "id": 24069,
-          "property": "frame_size_id"
-        },
-        {
-          "name": "Wayfarer",
-          "id": 11343,
-          "property": "frame_shape_id"
-        },
-        {
-          "name": "Vincent Chase Polarized",
-          "id": 20958,
-          "property": "brandname_id"
-        },
-        {
-          "name": "Full Rim",
-          "id": 11370,
-          "property": "frametype_id"
-        }
-      ],
-      "offerName": "VCSUN",
-      "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
-      "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/148066/android/sku_148066.glb",
-      "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/148066/ios/sku_148066.scn",
-      "arModelMsiteAndDesktopUrl": "",
-      "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/148066/orignal/sku_148066.glb",
-      "qty": 1140,
-      "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/148066_bubble.png",
-      "subCollection": "Style Cast (PC)",
-      "subCollectionId": 26623,
-      "relatedItems": [],
-      "isCygnusEnabled": true,
-      "isCashbackApplicable": false,
-      "searchProductName": "Black Wayfarer Full Rim Sunglasses",
-      "prescriptionType": []
-    },
-    {
-      "id": "152065",
-      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/john-jacobs-jj-e14642-c4---eyeglasses_csvfile-1690358593424-g_6858.jpg",
-      "image_url_suffix": "/j/i/john-jacobs-jj-e14642-c4---eyeglasses_csvfile-1690358593424-g_6858.jpg",
-      "imageUrls": [],
-      "product_url": "https://www.lenskart.com/john-jacobs-jj-e14642-c4-eyeglasses.html",
-      "color": "Green",
-      "size": "Wide",
-      "width": "140 mm",
-      "suited_for": "",
-      "brand_name": "John Jacobs",
-      "brand_name_en": "John Jacobs",
-      "brand_logo": "",
-      "model_name": "JJ E14642",
-      "prices": [
-        {
-          "name": "Market Price",
-          "currency_code": "INR",
-          "price": 3500
-        },
-        {
-          "name": "Lenskart Price",
-          "currency_code": "INR",
-          "price": 3500
-        }
-      ],
-      "is_tbyb": false,
-      "tags": "John Jacobs",
-      "color_options": [],
-      "totalColorAvailable": 0,
-      "is_ditto": false,
-      "classification": "eyeframe",
-      "specifications": [],
-      "wishlistCount": 0,
-      "purchaseCount": 732,
-      "avgRating": 0.0,
-      "hashtagList": [
-        {
-          "name": "Wide",
-          "id": 24069,
-          "property": "frame_size_id"
-        },
-        {
-          "name": "Square",
-          "id": 19404,
-          "property": "frame_shape_id"
-        },
-        {
-          "name": "John Jacobs",
-          "id": 10738,
-          "property": "brandname_id"
-        },
-        {
-          "name": "Full Rim",
-          "id": 11370,
-          "property": "frametype_id"
-        }
-      ],
-      "offerName": "JJEYE",
-      "cmsLinkAndroid": "",
-      "cmsLinkIos": "",
-      "arModelAndroidUrl": "https://www.lenskart.com/cms-frame-size-ios",
-      "arModelIOSUrl": "",
-      "arModelMsiteAndDesktopUrl": "",
-      "arModelOriginalUrl": "",
-      "qty": 87,
-      "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/152065_bubble.png",
-      "subCollection": "Craft Aluminium",
-      "subCollectionId": 26421,
-      "inclusiveText": "",
-      "relatedItems": [],
-      "isCygnusEnabled": false,
-      "isCashbackApplicable": false,
-      "searchProductName": "Green Full Rim Square John Jacobs Craft Aluminium JJ E14642-C4 Eyeglasses",
-      "prescriptionType": []
-    },
-    {
-      "id": "152533",
-      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//h/i/transparent-full-rim-square-hooper-poppin-hooper-hp-e10031m-c10-eyeglasses_transparent-full-rim-square-hooper-poppin-hooper-hp-e10031m-c10-eyeglasses_g_0412_7_13_22_22_march23.jpg.jpg",
-      "image_url_suffix": "/h/i/transparent-full-rim-square-hooper-poppin-hooper-hp-e10031m-c10-eyeglasses_transparent-full-rim-square-hooper-poppin-hooper-hp-e10031m-c10-eyeglasses_g_0412_7_13_22_22_march23.jpg.jpg",
-      "imageUrls": [],
-      "product_url": "https://www.lenskart.com/hooper-hp-e10031m-c10-eyeglasses.html",
-      "color": "Transparent",
-      "size": "5-8 yrs",
-      "width": "124 mm",
-      "suited_for": "5-8 yrs",
-      "brand_name": "Hooper online",
-      "brand_name_en": "Hooper online",
-      "model_name": "HP E10031M",
-      "prices": [
-        {
-          "name": "Market Price",
-          "currency_code": "INR",
-          "price": 1000
-        },
-        {
-          "name": "Lenskart Price",
-          "currency_code": "INR",
-          "price": 1000
-        }
-      ],
-      "is_tbyb": false,
-      "tags": "Poppin Hooper",
-      "color_options": [],
-      "totalColorAvailable": 0,
-      "is_ditto": true,
-      "classification": "eyeframe",
-      "specifications": [],
-      "wishlistCount": 0,
-      "purchaseCount": 2780,
-      "avgRating": 5.0,
-      "totalNoOfRatings": "1",
-      "hashtagList": [
-        {
-          "name": "5-8 yrs",
-          "id": 25001,
-          "property": "frame_size_id"
-        },
-        {
-          "name": "Wayfarer",
-          "id": 11343,
-          "property": "frame_shape_id"
-        },
-        {
-          "name": "Hooper online",
-          "id": 26021,
-          "property": "brandname_id"
-        },
-        {
-          "name": "Full Rim",
-          "id": 11370,
-          "property": "frametype_id"
-        }
-      ],
-      "offerName": "HOOPEREYE",
-      "cmsLinkAndroid": "https://www.lenskart.com/page-3",
-      "cmsLinkIos": "https://www.lenskart.com/page-3",
-      "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/152533/android/sku_152533.glb",
-      "arModelIOSUrl": "",
-      "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/152533/orignal/sku_152533.glb",
-      "qty": 37,
-      "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/152533_bubble.png",
-      "subCollection": "Poppin Hooper",
-      "subCollectionId": 26113,
-      "relatedItems": [],
-      "isCygnusEnabled": true,
-      "isCashbackApplicable": false,
-      "searchProductName": "Transparent Full Rim Square Eyeglasses",
-      "prescriptionType": []
-    },
-    {
-      "id": "152543",
-      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//h/i/purple-transparent-purple-full-rim-round-hooper-poppin-hooper-hp-e10076m-c5-eyeglasses_g_4910_7_25_22.jpg",
-      "image_url_suffix": "/h/i/purple-transparent-purple-full-rim-round-hooper-poppin-hooper-hp-e10076m-c5-eyeglasses_g_4910_7_25_22.jpg",
-      "imageUrls": [],
-      "product_url": "https://www.lenskart.com/hooper-hp-e10076m-c5-eyeglasses.html",
-      "color": "Purple",
-      "size": "5-8 yrs",
-      "width": "124 mm",
-      "suited_for": "5-8 yrs",
-      "brand_name": "Hooper online",
-      "brand_name_en": "Hooper online",
-      "model_name": "HP E10076M",
-      "prices": [
-        {
-          "name": "Market Price",
-          "currency_code": "INR",
-          "price": 1000
-        },
-        {
-          "name": "Lenskart Price",
-          "currency_code": "INR",
-          "price": 1000
-        }
-      ],
-      "is_tbyb": false,
-      "tags": "Poppin Hooper",
-      "color_options": [],
-      "totalColorAvailable": 0,
-      "is_ditto": true,
-      "classification": "eyeframe",
-      "specifications": [],
-      "wishlistCount": 0,
-      "purchaseCount": 1355,
-      "avgRating": 4.0,
-      "totalNoOfRatings": "2",
-      "hashtagList": [
-        {
-          "name": "5-8 yrs",
-          "id": 25001,
-          "property": "frame_size_id"
-        },
-        {
-          "name": "Round",
-          "id": 11346,
-          "property": "frame_shape_id"
-        },
-        {
-          "name": "Hooper online",
-          "id": 26021,
-          "property": "brandname_id"
-        },
-        {
-          "name": "Full Rim",
-          "id": 11370,
-          "property": "frametype_id"
-        }
-      ],
-      "offerName": "HOOPEREYE",
-      "cmsLinkAndroid": "https://www.lenskart.com/page-3",
-      "cmsLinkIos": "https://www.lenskart.com/page-3",
-      "arModelAndroidUrl": "",
-      "arModelIOSUrl": "",
-      "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/152543/orignal/sku_152543.glb",
-      "qty": 157,
-      "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/152543_bubble.png",
-      "subCollection": "Poppin Hooper",
-      "subCollectionId": 26113,
-      "relatedItems": [],
-      "isCygnusEnabled": true,
-      "isCashbackApplicable": false,
-      "searchProductName": "Purple Transparent Full Rim Round Eyeglasses",
-      "prescriptionType": []
-    },
-    {
-      "id": "152892",
-      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/maroon-full-rim-round-john-jacobs-rich-acetate-jj-e13318-c4-eyeglasses_g_4215_6_03_22.jpg",
-      "image_url_suffix": "/j/i/maroon-full-rim-round-john-jacobs-rich-acetate-jj-e13318-c4-eyeglasses_g_4215_6_03_22.jpg",
-      "imageUrls": [],
-      "product_url": "https://www.lenskart.com/john-jacobs-jj-e13318-c4-eyeglasses.html",
-      "color": "Maroon",
-      "size": "Medium",
-      "width": "134 mm",
-      "brand_name": "John Jacobs",
-      "brand_name_en": "John Jacobs",
-      "brand_logo": "https://static.lenskart.com/media/wysiwyg/blanco/images/JJ-Hi.jpg",
-      "model_name": "JJ E13318",
-      "prices": [
-        {
-          "name": "Market Price",
-          "currency_code": "INR",
-          "price": 3500
-        },
-        {
-          "name": "Lenskart Price",
-          "currency_code": "INR",
-          "price": 3500
-        }
-      ],
-      "is_tbyb": false,
-      "tags": "John Jacobs",
-      "color_options": [],
-      "totalColorAvailable": 0,
-      "is_ditto": true,
-      "classification": "eyeframe",
-      "specifications": [],
-      "wishlistCount": 0,
-      "purchaseCount": 1408,
-      "avgRating": 4.55,
-      "totalNoOfRatings": "9",
-      "hashtagList": [
-        {
-          "name": "Medium",
-          "id": 11341,
-          "property": "frame_size_id"
-        },
-        {
-          "name": "Round",
-          "id": 11346,
-          "property": "frame_shape_id"
-        },
-        {
-          "name": "John Jacobs",
-          "id": 10738,
-          "property": "brandname_id"
-        },
-        {
-          "name": "Full Rim",
-          "id": 11370,
-          "property": "frametype_id"
-        }
-      ],
-      "offerName": "JJEYE",
-      "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
-      "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "arModelAndroidUrl": "",
-      "arModelIOSUrl": "",
-      "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/152892/orignal/sku_152892.glb",
-      "qty": 83,
-      "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/152892_bubble.png",
-      "subCollection": "Rich Acetate",
-      "subCollectionId": 26361,
-      "relatedItems": [],
-      "isCygnusEnabled": true,
-      "isCashbackApplicable": false,
-      "searchProductName": "Maroon Full Rim Round Eyeglasses",
-      "prescriptionType": []
-    },
-    {
-      "id": "152959",
-      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/grey-blue-tortoise-full-rim-square-john-jacobs-rich-acetate-jj-e14733-c4-eyeglasses_g_454208-july-2022.jpg",
-      "image_url_suffix": "/j/i/grey-blue-tortoise-full-rim-square-john-jacobs-rich-acetate-jj-e14733-c4-eyeglasses_g_454208-july-2022.jpg",
-      "imageUrls": [],
-      "product_url": "https://www.lenskart.com/john-jacobs-jj-e14733-c4-eyeglasses.html",
-      "color": "Tortoise",
-      "size": "Extra Wide",
-      "width": "142 mm",
-      "brand_name": "John Jacobs",
-      "brand_name_en": "John Jacobs",
-      "brand_logo": "https://static.lenskart.com/media/wysiwyg/blanco/images/JJ-Hi.jpg",
-      "model_name": "JJ E14733",
-      "prices": [
-        {
-          "name": "Market Price",
-          "currency_code": "INR",
-          "price": 3500
-        },
-        {
-          "name": "Lenskart Price",
-          "currency_code": "INR",
-          "price": 3500
-        }
-      ],
-      "is_tbyb": false,
-      "tags": "John Jacobs",
-      "color_options": [],
-      "totalColorAvailable": 0,
-      "is_ditto": true,
-      "classification": "eyeframe",
-      "specifications": [],
-      "wishlistCount": 0,
-      "purchaseCount": 1602,
-      "avgRating": 0.0,
-      "hashtagList": [
-        {
-          "name": "Extra Wide",
-          "id": 24071,
-          "property": "frame_size_id"
-        },
-        {
-          "name": "Square",
-          "id": 19404,
-          "property": "frame_shape_id"
-        },
-        {
-          "name": "John Jacobs",
-          "id": 10738,
-          "property": "brandname_id"
-        },
-        {
-          "name": "Full Rim",
-          "id": 11370,
-          "property": "frametype_id"
-        }
-      ],
-      "offerName": "JJEYE",
-      "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
-      "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/152959/android/sku_152959.glb",
-      "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/152959/ios/sku_152959.scn",
-      "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/152959/orignal/sku_152959.glb",
-      "qty": 53,
-      "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/152959_bubble.png",
-      "subCollection": "Rich Acetate",
-      "subCollectionId": 26361,
-      "relatedItems": [],
-      "isCygnusEnabled": true,
-      "isCashbackApplicable": false,
-      "searchProductName": "Grey Blue Tortoise Full Rim Square Eyeglasses",
-      "prescriptionType": []
-    },
-    {
-      "id": "153083",
-      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/tortoise-full-rim-rectangle-john-jacobs-rich-acetate-jj-e14754-c3-eyeglasses_g_3519_7_29_22.jpg",
-      "image_url_suffix": "/j/i/tortoise-full-rim-rectangle-john-jacobs-rich-acetate-jj-e14754-c3-eyeglasses_g_3519_7_29_22.jpg",
-      "imageUrls": [],
-      "product_url": "https://www.lenskart.com/john-jacobs-jj-e14754-c3-eyeglasses.html",
-      "color": "Brown",
-      "size": "Extra Wide",
-      "width": "147 mm",
-      "brand_name": "John Jacobs",
-      "brand_name_en": "John Jacobs",
-      "brand_logo": "https://static.lenskart.com/media/wysiwyg/blanco/images/JJ-Hi.jpg",
-      "model_name": "JJ E14754",
-      "prices": [
-        {
-          "name": "Market Price",
-          "currency_code": "INR",
-          "price": 3500
-        },
-        {
-          "name": "Lenskart Price",
-          "currency_code": "INR",
-          "price": 3500
-        }
-      ],
-      "is_tbyb": false,
-      "tags": "John Jacobs",
-      "color_options": [],
-      "totalColorAvailable": 0,
-      "is_ditto": true,
-      "classification": "eyeframe",
-      "specifications": [],
-      "wishlistCount": 0,
-      "purchaseCount": 1728,
-      "avgRating": 5.0,
-      "totalNoOfRatings": "2",
-      "hashtagList": [
-        {
-          "name": "Extra Wide",
-          "id": 24071,
-          "property": "frame_size_id"
-        },
-        {
-          "name": "Rectangle",
-          "id": 11345,
-          "property": "frame_shape_id"
-        },
-        {
-          "name": "John Jacobs",
-          "id": 10738,
-          "property": "brandname_id"
-        },
-        {
-          "name": "Full Rim",
-          "id": 11370,
-          "property": "frametype_id"
-        }
-      ],
-      "offerName": "JJEYE",
-      "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
-      "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/153083/android/sku_153083.glb",
-      "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/153083/ios/sku_153083.scn",
-      "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/153083/orignal/sku_153083.glb",
-      "qty": 157,
-      "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/153083_bubble.png",
-      "subCollection": "Rich Acetate",
-      "subCollectionId": 26361,
-      "relatedItems": [],
-      "isCygnusEnabled": false,
-      "isCashbackApplicable": false,
-      "searchProductName": "Tortoise Full Rim Rectangle Eyeglasses",
-      "prescriptionType": []
-    },
-    {
-      "id": "209199",
-      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/black-silver-black-full-rim-rectangle-lenskart-readers-lr-e13700-c4-c-reading-eyeglasses_g_0816_01_06_2023.jpg",
-      "image_url_suffix": "/l/i/black-silver-black-full-rim-rectangle-lenskart-readers-lr-e13700-c4-c-reading-eyeglasses_g_0816_01_06_2023.jpg",
-      "imageUrls": [],
-      "product_url": "https://www.lenskart.com/lenskart-readers-lr-e13700-c4c-eyeglasses.html",
-      "color": "Black",
-      "size": "Medium",
-      "width": "135 mm",
-      "suited_for": "",
-      "brand_name": "Lenskart READERS",
-      "brand_name_en": "Lenskart READERS",
-      "model_name": "LR E13700",
-      "prices": [
-        {
-          "name": "Market Price",
-          "currency_code": "INR",
-          "price": 500
-        },
-        {
-          "name": "Lenskart Price",
-          "currency_code": "INR",
-          "price": 500
-        }
-      ],
-      "is_tbyb": false,
-      "tags": "+2.25 (Prefitted)",
-      "color_options": [],
-      "totalColorAvailable": 0,
-      "is_ditto": false,
-      "classification": "non_power_reading",
-      "specifications": [],
-      "wishlistCount": 0,
-      "purchaseCount": 379,
-      "avgRating": 0.0,
-      "hashtagList": [
-        {
-          "name": "Medium",
-          "id": 11341,
-          "property": "frame_size_id"
-        },
-        {
-          "name": "Rectangle",
-          "id": 11345,
-          "property": "frame_shape_id"
-        },
-        {
-          "name": "Lenskart READERS",
-          "id": 24140,
-          "property": "brandname_id"
-        },
-        {
-          "name": "Full Rim",
-          "id": 11370,
-          "property": "frametype_id"
-        }
-      ],
-      "offerName": "",
-      "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
-      "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 202,
-      "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/209199_bubble.png",
-      "subCollection": "",
-      "inclusiveText": "",
-      "relatedItems": [],
-      "isCygnusEnabled": false,
-      "isCashbackApplicable": false,
-      "searchProductName": "Black Full Rim Rectangle Eyeglasses",
-      "prescriptionType": []
-    },
-    {
       "id": "144900",
       "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//no-resize/a/i/aquacolor-venus-grey-zero-power-monthly_venus_grey_kiara.png",
       "image_url_suffix": "/no-resize/a/i/aquacolor-venus-grey-zero-power-monthly_venus_grey_kiara.png",
@@ -1314,7 +441,7 @@
       "offerName": "VCEYE",
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 2034,
+      "qty": 2032,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/210273_bubble.png",
       "subCollection": "HD Acetate",
       "subCollectionId": 25042,
@@ -1390,7 +517,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/136066/ios/sku_136066.scn",
       "arModelMsiteAndDesktopUrl": "NULL",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/136066/orignal/sku_136066.glb",
-      "qty": 122,
+      "qty": 121,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/136066_bubble.png",
       "subCollection": "JJ Tints",
       "subCollectionId": 26651,
@@ -1616,7 +743,7 @@
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/149784/ios/sku_149784.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/149784/orignal/sku_149784.glb",
-      "qty": 568,
+      "qty": 567,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/149784_bubble.png",
       "subCollection": "",
       "relatedItems": [],
@@ -1831,7 +958,7 @@
       "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/152751/android/sku_152751.glb",
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/152751/ios/sku_152751.scn",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/152751/orignal/sku_152751.glb",
-      "qty": 227,
+      "qty": 226,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/152751_bubble.png",
       "subCollection": "Rich Acetate",
       "subCollectionId": 26361,
@@ -1978,7 +1105,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/200430/android/sku_200430.glb",
       "arModelIOSUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/200430/orignal/sku_200430.glb",
-      "qty": 953,
+      "qty": 952,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/200430_bubble.png",
       "subCollection": "TINTED",
       "subCollectionId": 25044,
@@ -2415,7 +1542,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/139142/ios/sku_139142.scn",
       "arModelMsiteAndDesktopUrl": "NULL",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/139142/orignal/sku_139142.glb",
-      "qty": 292,
+      "qty": 275,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/139142_bubble.png",
       "subCollection": "HD Acetate",
       "subCollectionId": 25042,
@@ -2636,7 +1763,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/152555/android/sku_152555.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/152555/ios/sku_152555.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/152555/orignal/sku_152555.glb",
-      "qty": 9,
+      "qty": 8,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/152555_bubble.png",
       "subCollection": "Hooper Sunnies",
       "subCollectionId": 26114,
@@ -2995,7 +2122,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/209596/android/sku_209596.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/209596/ios/sku_209596.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/209596/orignal/sku_209596.glb",
-      "qty": 1967,
+      "qty": 1965,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/209596_bubble.png",
       "subCollection": "All-Time Hits",
       "subCollectionId": 27011,
@@ -3140,7 +2267,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/212913/android/sku_212913.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/212913/ios/sku_212913.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/212913/orignal/sku_212913.glb",
-      "qty": 927,
+      "qty": 926,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/212913_bubble.png",
       "subCollection": "WEDDING EDIT",
       "subCollectionId": 27511,
@@ -3214,7 +2341,7 @@
       "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/213294/android/sku_213294.glb",
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/213294/ios/sku_213294.scn",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/213294/orignal/sku_213294.glb",
-      "qty": 706,
+      "qty": 705,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/213294_bubble.png",
       "subCollection": "HEROES",
       "subCollectionId": 27681,
@@ -3289,7 +2416,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/146391/ios/sku_146391.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/146391/orignal/sku_146391.glb",
-      "qty": 7,
+      "qty": 6,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/146391_bubble.png",
       "subCollection": "Supreme Steel",
       "subCollectionId": 26271,
@@ -3737,7 +2864,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/205987/android/sku_205987.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/205987/ios/sku_205987.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/205987/orignal/sku_205987.glb",
-      "qty": 163,
+      "qty": 161,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/205987_bubble.png",
       "subCollection": "JJ Rhapsody",
       "subCollectionId": 26341,
@@ -4031,75 +3158,6 @@
       "prescriptionType": []
     },
     {
-      "id": "208813",
-      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/grey-gradient-black-full-rim-wayfarer-vincent-chase-style-cast--pc--vc-s15708-c1-sunglasses_g_0142_24_05_2023.jpg",
-      "image_url_suffix": "/v/i/grey-gradient-black-full-rim-wayfarer-vincent-chase-style-cast--pc--vc-s15708-c1-sunglasses_g_0142_24_05_2023.jpg",
-      "imageUrls": [],
-      "product_url": "https://www.lenskart.com/vincent-chase-vc-s15708-c1-sunglasses.html",
-      "color": "Black",
-      "size": "Extra Wide",
-      "width": "146 mm",
-      "brand_name": "Vincent Chase",
-      "brand_name_en": "Vincent Chase",
-      "brand_logo": "",
-      "model_name": "VC S15708",
-      "prices": [
-        {
-          "name": "Market Price",
-          "currency_code": "INR",
-          "price": 1500
-        },
-        {
-          "name": "Lenskart Price",
-          "currency_code": "INR",
-          "price": 1500
-        }
-      ],
-      "is_tbyb": false,
-      "color_options": [],
-      "totalColorAvailable": 0,
-      "is_ditto": true,
-      "classification": "sunglasses",
-      "specifications": [],
-      "wishlistCount": 0,
-      "purchaseCount": 368,
-      "avgRating": 0.0,
-      "hashtagList": [
-        {
-          "name": "Extra Wide",
-          "id": 24071,
-          "property": "frame_size_id"
-        },
-        {
-          "name": "Wayfarer",
-          "id": 11343,
-          "property": "frame_shape_id"
-        },
-        {
-          "name": "Vincent Chase",
-          "id": 10733,
-          "property": "brandname_id"
-        },
-        {
-          "name": "Full Rim",
-          "id": 11370,
-          "property": "frametype_id"
-        }
-      ],
-      "offerName": "VCSUN",
-      "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
-      "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 1,
-      "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/208813_bubble.png",
-      "subCollection": "Style Cast (PC)",
-      "subCollectionId": 26623,
-      "relatedItems": [],
-      "isCygnusEnabled": true,
-      "isCashbackApplicable": false,
-      "searchProductName": "Black Wayfarer Full Rim Sunglasses",
-      "prescriptionType": []
-    },
-    {
       "id": "209441",
       "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/grey-full-rim-rectangle-john-jacobs-masaba-jj-s15786-c3-sunglasses_g_6959_08_07_23.jpg",
       "image_url_suffix": "/j/i/grey-full-rim-rectangle-john-jacobs-masaba-jj-s15786-c3-sunglasses_g_6959_08_07_23.jpg",
@@ -4164,7 +3222,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/209441/android/sku_209441.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/209441/ios/sku_209441.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/209441/orignal/sku_209441.glb",
-      "qty": 59,
+      "qty": 58,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/209441_bubble.png",
       "subCollection": "JJ X Masaba",
       "subCollectionId": 27371,
@@ -4373,7 +3431,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/212876/android/sku_212876.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/212876/ios/sku_212876.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/212876/orignal/sku_212876.glb",
-      "qty": 594,
+      "qty": 593,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/212876_bubble.png",
       "subCollection": "Future Classics",
       "subCollectionId": 27571,
@@ -4446,7 +3504,7 @@
       "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/213481/android/sku_213481.glb",
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/213481/ios/sku_213481.scn",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/213481/orignal/sku_213481.glb",
-      "qty": 269,
+      "qty": 268,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/213481_bubble.png",
       "subCollection": "JJ X Masaba",
       "subCollectionId": 27371,
@@ -4668,7 +3726,7 @@
       "arModelIOSUrl": "",
       "arModelMsiteAndDesktopUrl": "NULL",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/133009/orignal/sku_133009.glb",
-      "qty": 419,
+      "qty": 417,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/133009_bubble.png",
       "subCollection": "Pro Titanium",
       "subCollectionId": 26191,
@@ -5043,7 +4101,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/147380/ios/sku_147380.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/147380/orignal/sku_147380.glb",
-      "qty": 72,
+      "qty": 71,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/147380_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -5190,7 +4248,7 @@
       "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/152562/android/sku_152562.glb",
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/152562/ios/sku_152562.scn",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/152562/orignal/sku_152562.glb",
-      "qty": 23,
+      "qty": 22,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/152562_bubble.png",
       "subCollection": "Hooper Sunnies",
       "subCollectionId": 26114,
@@ -5642,7 +4700,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/213275/android/sku_213275.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/213275/ios/sku_213275.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/213275/orignal/sku_213275.glb",
-      "qty": 1379,
+      "qty": 1325,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/213275_bubble.png",
       "subCollection": "Future Classics",
       "subCollectionId": 27571,
@@ -5864,7 +4922,7 @@
       "arModelAndroidUrl": "",
       "arModelIOSUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/152505/orignal/sku_152505.glb",
-      "qty": 118,
+      "qty": 117,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/152505_bubble.png",
       "subCollection": "Poppin Hooper",
       "subCollectionId": 26113,
@@ -7050,7 +6108,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/206640/android/sku_206640.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/206640/ios/sku_206640.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/206640/orignal/sku_206640.glb",
-      "qty": 166,
+      "qty": 164,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/206640_bubble.png",
       "subCollection": "Crystal clear",
       "subCollectionId": 25014,
@@ -7197,7 +6255,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/208901/android/sku_208901.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/208901/ios/sku_208901.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/208901/orignal/sku_208901.glb",
-      "qty": 50,
+      "qty": 49,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/208901_bubble.png",
       "subCollection": "The Metal Edit",
       "subCollectionId": 26621,
@@ -7273,7 +6331,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/137778/ios/sku_137778.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/137778/orignal/sku_137778.glb",
-      "qty": 159,
+      "qty": 158,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/137778_bubble.png",
       "subCollection": "Rich Acetate",
       "subCollectionId": 26361,
@@ -7578,79 +6636,6 @@
       "isCygnusEnabled": true,
       "isCashbackApplicable": false,
       "searchProductName": "Black Full Rim Square Eyeglasses",
-      "prescriptionType": []
-    },
-    {
-      "id": "208239",
-      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e15590-c1-eyeglasses_g_0166_25_05_2023.jpg",
-      "image_url_suffix": "/v/i/vincent-chase-vc-e15590-c1-eyeglasses_g_0166_25_05_2023.jpg",
-      "imageUrls": [],
-      "product_url": "https://www.lenskart.com/vincent-chase-vc-e15590-c1-eyeglasses.html",
-      "color": "Black",
-      "size": "Narrow",
-      "width": "132 mm",
-      "brand_name": "Vincent Chase",
-      "brand_name_en": "Vincent Chase",
-      "model_name": "VC E15590",
-      "prices": [
-        {
-          "name": "Market Price",
-          "currency_code": "INR",
-          "price": 1700
-        },
-        {
-          "name": "Lenskart Price",
-          "currency_code": "INR",
-          "price": 1700
-        }
-      ],
-      "is_tbyb": false,
-      "tags": "Blend Edit",
-      "color_options": [],
-      "totalColorAvailable": 0,
-      "is_ditto": true,
-      "classification": "eyeframe",
-      "specifications": [],
-      "wishlistCount": 0,
-      "purchaseCount": 3218,
-      "avgRating": 3.0,
-      "totalNoOfRatings": "3",
-      "hashtagList": [
-        {
-          "name": "Narrow",
-          "id": 24070,
-          "property": "frame_size_id"
-        },
-        {
-          "name": "Rectangle",
-          "id": 11345,
-          "property": "frame_shape_id"
-        },
-        {
-          "name": "Vincent Chase",
-          "id": 10733,
-          "property": "brandname_id"
-        },
-        {
-          "name": "Full Rim",
-          "id": 11370,
-          "property": "frametype_id"
-        }
-      ],
-      "offerName": "VCEYE",
-      "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
-      "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/208239/android/sku_208239.glb",
-      "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/208239/ios/sku_208239.scn",
-      "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/208239/orignal/sku_208239.glb",
-      "qty": 3,
-      "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/208239_bubble.png",
-      "subCollection": "Blend Edit",
-      "subCollectionId": 25041,
-      "relatedItems": [],
-      "isCygnusEnabled": true,
-      "isCashbackApplicable": false,
-      "searchProductName": "Black Full Rim Rectangle Eyeglasses",
       "prescriptionType": []
     },
     {
@@ -8101,7 +7086,7 @@
       "arModelIOSUrl": "",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "",
-      "qty": 1775,
+      "qty": 1763,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/139729_bubble.png",
       "subCollection": "Supreme Steel",
       "subCollectionId": 26271,
@@ -8252,7 +7237,7 @@
       "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/152167/android/sku_152167.glb",
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/152167/ios/sku_152167.scn",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/152167/orignal/sku_152167.glb",
-      "qty": 627,
+      "qty": 626,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/152167_bubble.png",
       "subCollection": "Poppin Hooper",
       "subCollectionId": 26113,
@@ -8480,81 +7465,6 @@
       "prescriptionType": []
     },
     {
-      "id": "204176",
-      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/blue-full-rim-round-lenskart-air-classic-la-e15016-c2-eyeglasses_g_8679_09_09_2022.jpg",
-      "image_url_suffix": "/l/i/blue-full-rim-round-lenskart-air-classic-la-e15016-c2-eyeglasses_g_8679_09_09_2022.jpg",
-      "imageUrls": [],
-      "product_url": "https://www.lenskart.com/lenskart-air-la-e15016-c2-eyeglasses.html",
-      "color": "Blue",
-      "size": "Extra Narrow",
-      "width": "125 mm",
-      "suited_for": "",
-      "brand_name": "Lenskart Air Online",
-      "brand_name_en": "Lenskart Air Online",
-      "model_name": "LA E15016",
-      "prices": [
-        {
-          "name": "Market Price",
-          "currency_code": "INR",
-          "price": 1700
-        },
-        {
-          "name": "Lenskart Price",
-          "currency_code": "INR",
-          "price": 1700
-        }
-      ],
-      "is_tbyb": false,
-      "tags": "Air Play",
-      "color_options": [],
-      "totalColorAvailable": 0,
-      "is_ditto": true,
-      "classification": "eyeframe",
-      "specifications": [],
-      "wishlistCount": 0,
-      "purchaseCount": 5138,
-      "avgRating": 5.0,
-      "totalNoOfRatings": "4",
-      "hashtagList": [
-        {
-          "name": "Extra Narrow",
-          "id": 24072,
-          "property": "frame_size_id"
-        },
-        {
-          "name": "Round",
-          "id": 11346,
-          "property": "frame_shape_id"
-        },
-        {
-          "name": "Lenskart Air Online",
-          "id": 22820,
-          "property": "brandname_id"
-        },
-        {
-          "name": "Full Rim",
-          "id": 11370,
-          "property": "frametype_id"
-        }
-      ],
-      "offerName": "VCEYE",
-      "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
-      "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/204176/android/sku_204176.glb",
-      "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/204176/ios/sku_204176.scn",
-      "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/204176/orignal/sku_204176.glb",
-      "qty": 1,
-      "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/204176_bubble.png",
-      "subCollection": "Air Play",
-      "subCollectionId": 26121,
-      "inclusiveText": "",
-      "relatedItems": [],
-      "isCygnusEnabled": true,
-      "isCashbackApplicable": false,
-      "searchProductName": "Blue Full Rim Round Eyeglasses",
-      "prescriptionType": []
-    },
-    {
       "id": "205884",
       "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/john-jacobs-jj-e15266-c2-eyeglasses_g_7613_23_12_2022.jpg",
       "image_url_suffix": "/j/i/john-jacobs-jj-e15266-c2-eyeglasses_g_7613_23_12_2022.jpg",
@@ -8690,7 +7600,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/211393/android/sku_211393.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/211393/ios/sku_211393.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/211393/orignal/sku_211393.glb",
-      "qty": 1614,
+      "qty": 1611,
       "subCollection": "BLUE BILLION",
       "subCollectionId": 26601,
       "relatedItems": [],
@@ -9560,7 +8470,7 @@
       "offerName": "LKBLUCE",
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 152,
+      "qty": 151,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/210934_bubble.png",
       "relatedItems": [],
       "isCygnusEnabled": false,
@@ -9694,7 +8604,7 @@
       "offerName": "JJSUN",
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 561,
+      "qty": 560,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/215344_bubble.png",
       "subCollection": "Eco-Acetate",
       "subCollectionId": 27191,
@@ -10728,7 +9638,7 @@
       "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/153101/android/sku_153101.glb",
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/153101/ios/sku_153101.scn",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/153101/orignal/sku_153101.glb",
-      "qty": 299,
+      "qty": 298,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/153101_bubble.png",
       "subCollection": "Rich Acetate",
       "subCollectionId": 26361,
@@ -10875,7 +9785,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/206547/android/sku_206547.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/206547/ios/sku_206547.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/206547/orignal/sku_206547.glb",
-      "qty": 231,
+      "qty": 232,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/206547_bubble.png",
       "subCollection": "BOOST",
       "subCollectionId": 26571,
@@ -11777,7 +10687,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/210014/android/sku_210014.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/210014/ios/sku_210014.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/210014/orignal/sku_210014.glb",
-      "qty": 2,
+      "qty": 1,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/210014_bubble.png",
       "subCollection": "TR Essentials",
       "subCollectionId": 26981,
@@ -12727,7 +11637,7 @@
       "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/200531/android/sku_200531.glb",
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/200531/ios/sku_200531.scn",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/200531/orignal/sku_200531.glb",
-      "qty": 1603,
+      "qty": 1602,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/200531_bubble.png",
       "subCollection": "Color Flex",
       "subCollectionId": 25069,
@@ -13023,7 +11933,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/206194/android/sku_206194.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/206194/ios/sku_206194.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/206194/orignal/sku_206194.glb",
-      "qty": 51,
+      "qty": 49,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/206194_bubble.png",
       "subCollection": "Poppin 2.0",
       "subCollectionId": 26483,
@@ -13169,7 +12079,7 @@
       "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/208715/android/sku_208715.glb",
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/208715/ios/sku_208715.scn",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/208715/orignal/sku_208715.glb",
-      "qty": 60,
+      "qty": 59,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/208715_bubble.png",
       "subCollection": "Unicorn",
       "subCollectionId": 26454,
@@ -13600,7 +12510,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/146192/ios/sku_146192.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/146192/orignal/sku_146192.glb",
-      "qty": 704,
+      "qty": 705,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/146192_bubble.png",
       "subCollection": "The Metal Edit",
       "subCollectionId": 26621,
@@ -13676,7 +12586,7 @@
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/147267/ios/sku_147267.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/147267/orignal/sku_147267.glb",
-      "qty": 20,
+      "qty": 19,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/147267_bubble.png",
       "subCollection": "JJ Tints",
       "subCollectionId": 26651,
@@ -13751,7 +12661,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/148320/ios/sku_148320.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/148320/orignal/sku_148320.glb",
-      "qty": 1293,
+      "qty": 1292,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/148320_bubble.png",
       "subCollection": "Rich Acetate",
       "subCollectionId": 26361,
@@ -13965,7 +12875,7 @@
       "offerName": "",
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 143,
+      "qty": 142,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/209947_bubble.png",
       "subCollection": "Rich Acetate",
       "subCollectionId": 26361,
@@ -14039,7 +12949,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/138437/ios/sku_138437.scn",
       "arModelMsiteAndDesktopUrl": "NULL",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/138437/orignal/sku_138437.glb",
-      "qty": 1472,
+      "qty": 1471,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/138437_bubble.png",
       "subCollection": "The Metal Edit",
       "subCollectionId": 26621,
@@ -14115,7 +13025,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/141849/ios/sku_141849.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/141849/orignal/sku_141849.glb",
-      "qty": 695,
+      "qty": 693,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/141849_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -14197,80 +13107,6 @@
       "isCygnusEnabled": true,
       "isCashbackApplicable": false,
       "searchProductName": "Matte Blue Full Rim Cat Eye Eyeglasses",
-      "prescriptionType": []
-    },
-    {
-      "id": "150931",
-      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//h/i/kids-glasses:-gradient-blue-navy-blue-full-rim-cat-eye-kids-(8-12-yrs)-hooper-poppin-hooper-hp-e10026-c4_kids-glasses_-gradient-blue-navy-blue-full-rim-cat-eye-kids-(8-12-yrs)-hooper-poppin-hooper-hp-e10026-c4_g_9965_14_03_2022_23_03_2022.jpg",
-      "image_url_suffix": "/h/i/kids-glasses:-gradient-blue-navy-blue-full-rim-cat-eye-kids-(8-12-yrs)-hooper-poppin-hooper-hp-e10026-c4_kids-glasses_-gradient-blue-navy-blue-full-rim-cat-eye-kids-(8-12-yrs)-hooper-poppin-hooper-hp-e10026-c4_g_9965_14_03_2022_23_03_2022.jpg",
-      "imageUrls": [],
-      "product_url": "https://www.lenskart.com/hooper-hp-e10026-c4-eyeglasses.html",
-      "color": "Blue",
-      "size": "8-12 yrs",
-      "width": "126 mm",
-      "suited_for": "8-12 yrs",
-      "brand_name": "Hooper online",
-      "brand_name_en": "Hooper online",
-      "model_name": "HP E10026",
-      "prices": [
-        {
-          "name": "Market Price",
-          "currency_code": "INR",
-          "price": 1000
-        },
-        {
-          "name": "Lenskart Price",
-          "currency_code": "INR",
-          "price": 1000
-        }
-      ],
-      "is_tbyb": false,
-      "tags": "Poppin Hooper",
-      "color_options": [],
-      "totalColorAvailable": 0,
-      "is_ditto": true,
-      "classification": "eyeframe",
-      "specifications": [],
-      "wishlistCount": 107,
-      "purchaseCount": 3004,
-      "avgRating": 5.0,
-      "totalNoOfRatings": "5",
-      "hashtagList": [
-        {
-          "name": "8-12 yrs",
-          "id": 25000,
-          "property": "frame_size_id"
-        },
-        {
-          "name": "Cat Eye",
-          "id": 11351,
-          "property": "frame_shape_id"
-        },
-        {
-          "name": "Hooper online",
-          "id": 26021,
-          "property": "brandname_id"
-        },
-        {
-          "name": "Full Rim",
-          "id": 11370,
-          "property": "frametype_id"
-        }
-      ],
-      "offerName": "HOOPEREYE",
-      "cmsLinkAndroid": "https://www.lenskart.com/page-3",
-      "cmsLinkIos": "https://www.lenskart.com/page-3",
-      "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/150931/android/sku_150931.glb",
-      "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/150931/ios/sku_150931.scn",
-      "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/150931/orignal/sku_150931.glb",
-      "qty": 1,
-      "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/150931_bubble.png",
-      "subCollection": "Poppin Hooper",
-      "subCollectionId": 26113,
-      "relatedItems": [],
-      "isCygnusEnabled": true,
-      "isCashbackApplicable": false,
-      "searchProductName": "Blue Gradient Full Rim Cat Eye Eyeglasses",
       "prescriptionType": []
     },
     {
@@ -15378,7 +14214,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/204538/android/sku_204538.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/204538/ios/sku_204538.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/204538/orignal/sku_204538.glb",
-      "qty": 11972,
+      "qty": 11971,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/204538_bubble.png",
       "subCollection": "Style Cast (PC)",
       "subCollectionId": 26623,
@@ -17163,7 +15999,7 @@
       "arModelAndroidUrl": "",
       "arModelIOSUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/200988/orignal/sku_200988.glb",
-      "qty": 60,
+      "qty": 59,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/200988_bubble.png",
       "subCollection": "Gripzy Hooper",
       "subCollectionId": 26117,
@@ -17310,7 +16146,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/206365/android/sku_206365.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/206365/ios/sku_206365.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/206365/orignal/sku_206365.glb",
-      "qty": 44,
+      "qty": 43,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/206365_bubble.png",
       "subCollection": "JJ Rhapsody",
       "subCollectionId": 26341,
@@ -17660,7 +16496,7 @@
       ],
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 1840,
+      "qty": 1814,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/209330_bubble.png",
       "subCollection": "MAVERICK 2.0",
       "subCollectionId": 26941,
@@ -17732,7 +16568,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/213272/android/sku_213272.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/213272/ios/sku_213272.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/213272/orignal/sku_213272.glb",
-      "qty": 784,
+      "qty": 724,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/213272_bubble.png",
       "subCollection": "Future Classics",
       "subCollectionId": 27571,
@@ -17955,7 +16791,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/144731/ios/sku_144731.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/144731/orignal/sku_144731.glb",
-      "qty": 80,
+      "qty": 79,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/144731_bubble.png",
       "subCollection": "Rich Acetate",
       "subCollectionId": 26361,
@@ -18177,7 +17013,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/150155/ios/sku_150155.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/150155/orignal/sku_150155.glb",
-      "qty": 329,
+      "qty": 328,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/150155_bubble.png",
       "relatedItems": [],
       "isCygnusEnabled": true,
@@ -18321,7 +17157,7 @@
       "arModelAndroidUrl": "",
       "arModelIOSUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/152538/orignal/sku_152538.glb",
-      "qty": 12,
+      "qty": 11,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/152538_bubble.png",
       "subCollection": "Poppin Hooper",
       "subCollectionId": 26113,
@@ -18542,7 +17378,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/201089/android/sku_201089.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/201089/ios/sku_201089.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/201089/orignal/sku_201089.glb",
-      "qty": 92,
+      "qty": 91,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/201089_bubble.png",
       "subCollection": "Gradient",
       "subCollectionId": 25038,
@@ -18762,7 +17598,7 @@
       "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/208721/android/sku_208721.glb",
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/208721/ios/sku_208721.scn",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/208721/orignal/sku_208721.glb",
-      "qty": 58,
+      "qty": 57,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/208721_bubble.png",
       "subCollection": "Unicorn",
       "subCollectionId": 26454,
@@ -19059,7 +17895,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/213269/android/sku_213269.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/213269/ios/sku_213269.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/213269/orignal/sku_213269.glb",
-      "qty": 1186,
+      "qty": 1119,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/213269_bubble.png",
       "subCollection": "Future Classics",
       "subCollectionId": 27571,
@@ -19130,7 +17966,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/213288/android/sku_213288.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/213288/ios/sku_213288.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/213288/orignal/sku_213288.glb",
-      "qty": 737,
+      "qty": 736,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/213288_bubble.png",
       "subCollection": "HEROES",
       "subCollectionId": 27681,
@@ -19800,7 +18636,7 @@
       "arModelIOSUrl": "",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "",
-      "qty": 549,
+      "qty": 547,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/150371_bubble.png",
       "subCollection": "Supreme Steel",
       "subCollectionId": 26271,
@@ -20458,7 +19294,7 @@
       "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/208722/android/sku_208722.glb",
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/208722/ios/sku_208722.scn",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/208722/orignal/sku_208722.glb",
-      "qty": 68,
+      "qty": 67,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/208722_bubble.png",
       "subCollection": "Unicorn",
       "subCollectionId": 26454,
@@ -20739,7 +19575,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/213255/android/sku_213255.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/213255/ios/sku_213255.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/213255/orignal/sku_213255.glb",
-      "qty": 849,
+      "qty": 807,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/213255_bubble.png",
       "subCollection": "Future Classics",
       "subCollectionId": 27571,
@@ -20812,7 +19648,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/213260/android/sku_213260.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/213260/ios/sku_213260.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/213260/orignal/sku_213260.glb",
-      "qty": 988,
+      "qty": 938,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/213260_bubble.png",
       "subCollection": "Future Classics",
       "subCollectionId": 27571,
@@ -20884,7 +19720,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/213664/android/sku_213664.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/213664/ios/sku_213664.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/213664/orignal/sku_213664.glb",
-      "qty": 946,
+      "qty": 944,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/213664_bubble.png",
       "subCollection": "Space Explorers",
       "subCollectionId": 27701,
@@ -20952,7 +19788,7 @@
       "offerName": "JJBOGO",
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 352,
+      "qty": 351,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/215272_bubble.png",
       "subCollection": "Rich Acetate",
       "subCollectionId": 26361,
@@ -21177,7 +20013,7 @@
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/141851/ios/sku_141851.scn",
       "arModelMsiteAndDesktopUrl": "https://3d-asset-lookr.s3-ap-southeast-1.amazonaws.com/frameassets/131443/orignal/sku_131443.glb",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/141851/orignal/sku_141851.glb",
-      "qty": 182,
+      "qty": 164,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/141851_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -21252,7 +20088,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/142623/ios/sku_142623.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/142623/orignal/sku_142623.glb",
-      "qty": 40,
+      "qty": 38,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/142623_bubble.png",
       "subCollection": "Digi Hooper",
       "subCollectionId": 26116,
@@ -21477,7 +20313,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/148399/ios/sku_148399.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/148399/orignal/sku_148399.glb",
-      "qty": 41,
+      "qty": 40,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/148399_bubble.png",
       "subCollection": "JJ Tints",
       "subCollectionId": 26651,
@@ -21849,7 +20685,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/200392/android/sku_200392.glb",
       "arModelIOSUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/200392/orignal/sku_200392.glb",
-      "qty": 113,
+      "qty": 107,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/200392_bubble.png",
       "subCollection": "TINTED",
       "subCollectionId": 25044,
@@ -21923,7 +20759,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/201377/android/sku_201377.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/201377/ios/sku_201377.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/201377/orignal/sku_201377.glb",
-      "qty": 258,
+      "qty": 256,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/201377_bubble.png",
       "subCollection": "Supreme Steel",
       "subCollectionId": 26271,
@@ -22356,7 +21192,7 @@
       "offerName": "VCEYE",
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 288,
+      "qty": 287,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/215438_bubble.png",
       "subCollection": "Float Pop",
       "subCollectionId": 25009,
@@ -22430,7 +21266,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/217532/android/sku_217532.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/217532/ios/sku_217532.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/217532/orignal/sku_217532.glb",
-      "qty": 740,
+      "qty": 676,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/217532_bubble.png",
       "subCollection": "The Metal Edit",
       "subCollectionId": 26621,
@@ -23258,7 +22094,7 @@
       ],
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 107,
+      "qty": 106,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/205684_bubble.png",
       "relatedItems": [],
       "isCygnusEnabled": false,
@@ -23557,7 +22393,7 @@
       ],
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 1843,
+      "qty": 1826,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/209328_bubble.png",
       "subCollection": "MAVERICK 2.0",
       "subCollectionId": 26941,
@@ -24214,7 +23050,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/144398/ios/sku_144398.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/144398/orignal/sku_144398.glb",
-      "qty": 799,
+      "qty": 798,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/144398_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -24289,7 +23125,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/144400/ios/sku_144400.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/144400/orignal/sku_144400.glb",
-      "qty": 263,
+      "qty": 262,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/144400_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -25187,7 +24023,7 @@
       "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/200585/android/sku_200585.glb",
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/200585/ios/sku_200585.scn",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/200585/orignal/sku_200585.glb",
-      "qty": 14,
+      "qty": 13,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/200585_bubble.png",
       "subCollection": "Pride",
       "subCollectionId": 25025,
@@ -25261,7 +24097,7 @@
       "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/200987/android/sku_200987.glb",
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/200987/ios/sku_200987.scn",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/200987/orignal/sku_200987.glb",
-      "qty": 74,
+      "qty": 73,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/200987_bubble.png",
       "subCollection": "Gripzy Hooper",
       "subCollectionId": 26117,
@@ -25620,7 +24456,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/213277/android/sku_213277.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/213277/ios/sku_213277.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/213277/orignal/sku_213277.glb",
-      "qty": 808,
+      "qty": 716,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/213277_bubble.png",
       "subCollection": "Future Classics",
       "subCollectionId": 27571,
@@ -26071,7 +24907,7 @@
       "arModelAndroidUrl": "",
       "arModelIOSUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/152889/orignal/sku_152889.glb",
-      "qty": 100,
+      "qty": 99,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/152889_bubble.png",
       "subCollection": "Rich Acetate",
       "subCollectionId": 26361,
@@ -28983,7 +27819,7 @@
       "offerName": "LKBLUCE",
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 129,
+      "qty": 128,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/200266_bubble.png",
       "relatedItems": [],
       "isCygnusEnabled": true,
@@ -29778,7 +28614,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/213266/android/sku_213266.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/213266/ios/sku_213266.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/213266/orignal/sku_213266.glb",
-      "qty": 896,
+      "qty": 836,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/213266_bubble.png",
       "subCollection": "Future Classics",
       "subCollectionId": 27571,
@@ -29849,7 +28685,7 @@
       "offerName": "VCEYE",
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 8835,
+      "qty": 8832,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/215923_bubble.png",
       "subCollection": "Lenskart Hustlr",
       "subCollectionId": 26161,
@@ -30377,7 +29213,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/148973/ios/sku_148973.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/148973/orignal/sku_148973.glb",
-      "qty": 661,
+      "qty": 660,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/148973_bubble.png",
       "subCollection": "Urban retro",
       "subCollectionId": 25018,
@@ -31177,7 +30013,7 @@
       "offerName": "",
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 130,
+      "qty": 129,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/209941_bubble.png",
       "subCollection": "Rich Acetate",
       "subCollectionId": 26361,
@@ -31534,7 +30370,7 @@
       "offerName": "VCEYE",
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 3115,
+      "qty": 3114,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/216711_bubble.png",
       "subCollection": "Lenskart Hustlr",
       "subCollectionId": 26161,
@@ -31977,7 +30813,7 @@
       "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/152076/android/sku_152076.glb",
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/152076/ios/sku_152076.scn",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/152076/orignal/sku_152076.glb",
-      "qty": 183,
+      "qty": 181,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/152076_bubble.png",
       "subCollection": "Craft Aluminium",
       "subCollectionId": 26421,
@@ -32485,7 +31321,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/143698/ios/sku_143698.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/143698/orignal/sku_143698.glb",
-      "qty": 99,
+      "qty": 98,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/143698_bubble.png",
       "subCollection": "Supreme Steel",
       "subCollectionId": 26271,
@@ -32560,7 +31396,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/144482/ios/sku_144482.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/144482/orignal/sku_144482.glb",
-      "qty": 1363,
+      "qty": 1359,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/144482_bubble.png",
       "subCollection": "SLEEK STEEL",
       "subCollectionId": 25036,
@@ -32634,7 +31470,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/146208/ios/sku_146208.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/146208/orignal/sku_146208.glb",
-      "qty": 233,
+      "qty": 232,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/146208_bubble.png",
       "subCollection": "Pro Titanium",
       "subCollectionId": 26191,
@@ -32855,7 +31691,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/151061/android/sku_151061.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/151061/ios/sku_151061.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/151061/orignal/sku_151061.glb",
-      "qty": 2559,
+      "qty": 2558,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/151061_bubble.png",
       "subCollection": "Athleisure",
       "subCollectionId": 25007,
@@ -33874,7 +32710,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/213264/android/sku_213264.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/213264/ios/sku_213264.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/213264/orignal/sku_213264.glb",
-      "qty": 951,
+      "qty": 900,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/213264_bubble.png",
       "subCollection": "Future Classics",
       "subCollectionId": 27571,
@@ -34092,7 +32928,7 @@
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/143357/ios/sku_143357.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/143357/orignal/sku_143357.glb",
-      "qty": 1090,
+      "qty": 1088,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/143357_bubble.png",
       "subCollection": "Supreme Steel",
       "subCollectionId": 26271,
@@ -34466,7 +33302,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/149765/ios/sku_149765.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/149765/orignal/sku_149765.glb",
-      "qty": 38,
+      "qty": 37,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/149765_bubble.png",
       "relatedItems": [],
       "isCygnusEnabled": true,
@@ -34608,7 +33444,7 @@
       "arModelAndroidUrl": "",
       "arModelIOSUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/152372/orignal/sku_152372.glb",
-      "qty": 14,
+      "qty": 13,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/152372_bubble.png",
       "subCollection": "Digi Hooper",
       "subCollectionId": 26116,
@@ -34756,7 +33592,7 @@
       "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/153084/android/sku_153084.glb",
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/153084/ios/sku_153084.scn",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/153084/orignal/sku_153084.glb",
-      "qty": 445,
+      "qty": 444,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/153084_bubble.png",
       "subCollection": "Rich Acetate",
       "subCollectionId": 26361,
@@ -35127,7 +33963,7 @@
       ],
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 1823,
+      "qty": 1796,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/209327_bubble.png",
       "subCollection": "MAVERICK 2.0",
       "subCollectionId": 26941,
@@ -35201,7 +34037,7 @@
       "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/206476/android/sku_206476.glb",
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/206476/ios/sku_206476.scn",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/206476/orignal/sku_206476.glb",
-      "qty": 115,
+      "qty": 114,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/209842_bubble.png",
       "subCollection": "BOOST",
       "subCollectionId": 26571,
@@ -35493,7 +34329,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/144922/ios/sku_144922.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/144922/orignal/sku_144922.glb",
-      "qty": 430,
+      "qty": 429,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/144922_bubble.png",
       "subCollection": "Supreme Steel",
       "subCollectionId": 26271,
@@ -37471,7 +36307,7 @@
       "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/201393/android/sku_201393.glb",
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/201393/ios/sku_201393.scn",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/201393/orignal/sku_201393.glb",
-      "qty": 1151,
+      "qty": 1148,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/201393_bubble.png",
       "subCollection": "Supreme Steel",
       "subCollectionId": 26271,
@@ -37766,7 +36602,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/213274/android/sku_213274.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/213274/ios/sku_213274.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/213274/orignal/sku_213274.glb",
-      "qty": 573,
+      "qty": 514,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/213274_bubble.png",
       "subCollection": "Future Classics",
       "subCollectionId": 27571,
@@ -37911,7 +36747,7 @@
       "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/217547/android/sku_217547.glb",
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/217547/ios/sku_217547.scn",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/217547/orignal/sku_217547.glb",
-      "qty": 270,
+      "qty": 268,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/217547_bubble.png",
       "subCollection": "The Kjo Collection",
       "subCollectionId": 27771,
@@ -38060,7 +36896,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/141860/ios/sku_141860.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/141860/orignal/sku_141860.glb",
-      "qty": 875,
+      "qty": 874,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/141860_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -38295,7 +37131,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/146576/ios/sku_146576.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/146576/orignal/sku_146576.glb",
-      "qty": 2,
+      "qty": 3,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/146576_bubble.png",
       "subCollection": "",
       "inclusiveText": "",
@@ -38519,7 +37355,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/147679/ios/sku_147679.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/147679/orignal/sku_147679.glb",
-      "qty": 20,
+      "qty": 19,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/147679_bubble.png",
       "subCollection": "JJ Tints",
       "subCollectionId": 26651,
@@ -38595,7 +37431,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/147910/ios/sku_147910.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/147910/orignal/sku_147910.glb",
-      "qty": 8,
+      "qty": 7,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/147910_bubble.png",
       "subCollection": "DYNACHROMIC",
       "subCollectionId": 26637,
@@ -38826,77 +37662,6 @@
       "prescriptionType": []
     },
     {
-      "id": "206647",
-      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e15382-c2-eyeglasses_g_5490_10_03_2023.jpg",
-      "image_url_suffix": "/v/i/vincent-chase-vc-e15382-c2-eyeglasses_g_5490_10_03_2023.jpg",
-      "imageUrls": [],
-      "product_url": "https://www.lenskart.com/vincent-chase-vc-e15382-c2-eyeglasses.html",
-      "color": "Transparent",
-      "occasion": "Everyday",
-      "size": "Narrow",
-      "width": "131 mm",
-      "brand_name": "Vincent Chase",
-      "brand_name_en": "Vincent Chase",
-      "brand_logo": "https://static.lenskart.com/media/wysiwyg/blanco/images/VC-H.jpg",
-      "model_name": "VC E15382",
-      "prices": [
-        {
-          "name": "Market Price",
-          "currency_code": "INR",
-          "price": 1700
-        },
-        {
-          "name": "Lenskart Price",
-          "currency_code": "INR",
-          "price": 1700
-        }
-      ],
-      "is_tbyb": false,
-      "tags": "Crystal Clear",
-      "color_options": [],
-      "totalColorAvailable": 0,
-      "is_ditto": true,
-      "classification": "eyeframe",
-      "specifications": [],
-      "wishlistCount": 0,
-      "purchaseCount": 2502,
-      "avgRating": 0.0,
-      "hashtagList": [
-        {
-          "name": "Narrow",
-          "id": 24070,
-          "property": "frame_size_id"
-        },
-        {
-          "name": "Rectangle",
-          "id": 11345,
-          "property": "frame_shape_id"
-        },
-        {
-          "name": "Vincent Chase",
-          "id": 10733,
-          "property": "brandname_id"
-        },
-        {
-          "name": "Full Rim",
-          "id": 11370,
-          "property": "frametype_id"
-        }
-      ],
-      "offerName": "VCEYE",
-      "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
-      "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 1,
-      "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/206647_bubble.png",
-      "subCollection": "Crystal clear",
-      "subCollectionId": 25014,
-      "relatedItems": [],
-      "isCygnusEnabled": true,
-      "isCashbackApplicable": false,
-      "searchProductName": "Transparent Full Rim Rectangle Eyeglasses",
-      "prescriptionType": []
-    },
-    {
       "id": "208114",
       "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/tortoise-brown-full-rim-square-john-jacobs-rebranding-jj-e15549-c2-eyeglasses_g_8196_28_04_2023.jpg",
       "image_url_suffix": "/j/i/tortoise-brown-full-rim-square-john-jacobs-rebranding-jj-e15549-c2-eyeglasses_g_8196_28_04_2023.jpg",
@@ -39032,7 +37797,7 @@
       "offerName": "VCSUN",
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 239,
+      "qty": 238,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/208625_bubble.png",
       "subCollection": "The Metal Edit",
       "subCollectionId": 26621,
@@ -39101,7 +37866,7 @@
       ],
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 1837,
+      "qty": 1808,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/209329_bubble.png",
       "subCollection": "MAVERICK 2.0",
       "subCollectionId": 26941,
@@ -39175,7 +37940,7 @@
       "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/206601/android/sku_206601.glb",
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/206601/ios/sku_206601.scn",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/206601/orignal/sku_206601.glb",
-      "qty": 250,
+      "qty": 249,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/209834_bubble.png",
       "subCollection": "BOOST",
       "subCollectionId": 26571,
@@ -39250,7 +38015,7 @@
       "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/206604/android/sku_206604.glb",
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/206604/ios/sku_206604.scn",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/206604/orignal/sku_206604.glb",
-      "qty": 204,
+      "qty": 203,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/209836_bubble.png",
       "subCollection": "BOOST",
       "subCollectionId": 26571,
@@ -41315,7 +40080,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/141796/ios/sku_141796.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/141796/orignal/sku_141796.glb",
-      "qty": 240,
+      "qty": 237,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/141796_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -42059,7 +40824,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/150937/android/sku_150937.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/150937/ios/sku_150937.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/150937/orignal/sku_150937.glb",
-      "qty": 71,
+      "qty": 70,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/150937_bubble.png",
       "subCollection": "Poppin Hooper",
       "subCollectionId": 26113,
@@ -43690,7 +42455,7 @@
       "arModelAndroidUrl": "",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/149412/ios/sku_149412.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/149412/orignal/sku_149412.glb",
-      "qty": 109,
+      "qty": 108,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/149412_bubble.png",
       "subCollection": "Pro Titanium",
       "subCollectionId": 26191,
@@ -43916,7 +42681,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/151241/android/sku_151241.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/151241/ios/sku_151241.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/151241/orignal/sku_151241.glb",
-      "qty": 154,
+      "qty": 153,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/151241_bubble.png",
       "subCollection": "Pro Titanium",
       "subCollectionId": 26191,
@@ -46083,7 +44848,7 @@
       "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/206475/android/sku_206475.glb",
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/206475/ios/sku_206475.scn",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/206475/orignal/sku_206475.glb",
-      "qty": 39,
+      "qty": 38,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/209853_bubble.png",
       "subCollection": "BOOST",
       "subCollectionId": 26571,
@@ -48056,7 +46821,7 @@
       "offerName": "JJEYE",
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 130,
+      "qty": 129,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/206514_bubble.png",
       "subCollection": "ULTIMATE FLEX",
       "subCollectionId": 26321,
@@ -50690,7 +49455,7 @@
       "offerName": "LKBLUCE",
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 267,
+      "qty": 266,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/210940_bubble.png",
       "relatedItems": [],
       "isCygnusEnabled": false,
@@ -50979,7 +49744,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/141759/ios/sku_141759.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/141759/orignal/sku_141759.glb",
-      "qty": 451,
+      "qty": 448,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/141759_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -51205,7 +49970,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/143358/ios/sku_143358.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/143358/orignal/sku_143358.glb",
-      "qty": 331,
+      "qty": 328,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/143358_bubble.png",
       "subCollection": "Supreme Steel",
       "subCollectionId": 26271,
@@ -51281,7 +50046,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/143424/ios/sku_143424.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/143424/orignal/sku_143424.glb",
-      "qty": 155,
+      "qty": 148,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/143424_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -51949,7 +50714,7 @@
       "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/153085/android/sku_153085.glb",
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/153085/ios/sku_153085.scn",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/153085/orignal/sku_153085.glb",
-      "qty": 352,
+      "qty": 351,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/153085_bubble.png",
       "subCollection": "Rich Acetate",
       "subCollectionId": 26361,
@@ -52814,7 +51579,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/213265/android/sku_213265.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/213265/ios/sku_213265.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/213265/orignal/sku_213265.glb",
-      "qty": 939,
+      "qty": 891,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/213265_bubble.png",
       "subCollection": "Future Classics",
       "subCollectionId": 27571,
@@ -53108,7 +51873,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/218224/android/sku_218224.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/218224/ios/sku_218224.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/218224/orignal/sku_218224.glb",
-      "qty": 896,
+      "qty": 895,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/218224_bubble.png",
       "subCollection": "Lenskart Hustlr",
       "subCollectionId": 26161,
@@ -53485,7 +52250,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/141733/ios/sku_141733.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/141733/orignal/sku_141733.glb",
-      "qty": 257,
+      "qty": 239,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/141733_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -53559,7 +52324,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/141821/ios/sku_141821.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/141821/orignal/sku_141821.glb",
-      "qty": 322,
+      "qty": 321,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/141821_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -53633,7 +52398,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/141845/ios/sku_141845.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/141845/orignal/sku_141845.glb",
-      "qty": 1922,
+      "qty": 1920,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/141845_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -53716,6 +52481,81 @@
       "isCygnusEnabled": false,
       "isCashbackApplicable": false,
       "searchProductName": "Yellow Full Rim Oval Eyeglasses",
+      "prescriptionType": []
+    },
+    {
+      "id": "143702",
+      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/gold-blue-brown-transparent-full-rim-square-john-jacobs-supreme-steel-jj-e13495---c1-eyeglasses_john-jacobs-jj-e13495-c1-eyeglasses_john-jacobs-jj-e13495-c1-eyeglasses_g_1711_2_1_05_july23.jpg",
+      "image_url_suffix": "/j/i/gold-blue-brown-transparent-full-rim-square-john-jacobs-supreme-steel-jj-e13495---c1-eyeglasses_john-jacobs-jj-e13495-c1-eyeglasses_john-jacobs-jj-e13495-c1-eyeglasses_g_1711_2_1_05_july23.jpg",
+      "imageUrls": [],
+      "product_url": "https://www.lenskart.com/john-jacobs-jj-e13495-c1-eyeglasses.html",
+      "color": "Gold",
+      "size": "Wide",
+      "width": "140 mm",
+      "brand_name": "John Jacobs",
+      "brand_name_en": "John Jacobs",
+      "brand_logo": "https://static.lenskart.com/media/wysiwyg/blanco/images/JJ-Hi.jpg",
+      "model_name": "JJ E13495",
+      "prices": [
+        {
+          "name": "Market Price",
+          "currency_code": "INR",
+          "price": 5000
+        },
+        {
+          "name": "Lenskart Price",
+          "currency_code": "INR",
+          "price": 5000
+        }
+      ],
+      "is_tbyb": false,
+      "tags": "John Jacobs",
+      "color_options": [],
+      "totalColorAvailable": 0,
+      "is_ditto": true,
+      "classification": "eyeframe",
+      "specifications": [],
+      "wishlistCount": 592,
+      "purchaseCount": 1122,
+      "avgRating": 4.85,
+      "totalNoOfRatings": "16",
+      "hashtagList": [
+        {
+          "name": "Wide",
+          "id": 24069,
+          "property": "frame_size_id"
+        },
+        {
+          "name": "Square",
+          "id": 19404,
+          "property": "frame_shape_id"
+        },
+        {
+          "name": "John Jacobs",
+          "id": 10738,
+          "property": "brandname_id"
+        },
+        {
+          "name": "Full Rim",
+          "id": 11370,
+          "property": "frametype_id"
+        }
+      ],
+      "offerName": "JJEYE",
+      "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
+      "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
+      "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/143702/android/sku_143702.glb",
+      "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/143702/ios/sku_143702.scn",
+      "arModelMsiteAndDesktopUrl": "",
+      "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/143702/orignal/sku_143702.glb",
+      "qty": 3,
+      "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/143702_bubble.png",
+      "subCollection": "Supreme Steel",
+      "subCollectionId": 26271,
+      "relatedItems": [],
+      "isCygnusEnabled": true,
+      "isCashbackApplicable": false,
+      "searchProductName": "Golden Full Rim Square Eyeglasses",
       "prescriptionType": []
     },
     {
@@ -53860,7 +52700,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/148412/ios/sku_148412.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/148412/orignal/sku_148412.glb",
-      "qty": 40,
+      "qty": 39,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/148412_bubble.png",
       "subCollection": "JJ Tints",
       "subCollectionId": 26651,
@@ -54078,7 +52918,7 @@
       "offerName": "VCSUN",
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 169,
+      "qty": 168,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/151879_bubble.png",
       "subCollection": "Havana",
       "subCollectionId": 25022,
@@ -54512,7 +53352,7 @@
       "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/153009/android/sku_153009.glb",
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/153009/ios/sku_153009.scn",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/153009/orignal/sku_153009.glb",
-      "qty": 94,
+      "qty": 93,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/153009_bubble.png",
       "relatedItems": [],
       "isCygnusEnabled": true,
@@ -56179,7 +55019,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/147262/ios/sku_147262.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/147262/orignal/sku_147262.glb",
-      "qty": 1231,
+      "qty": 1230,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/147262_bubble.png",
       "subCollection": "JJ Tints",
       "subCollectionId": 26651,
@@ -58693,7 +57533,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/147412/ios/sku_147412.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/147412/orignal/sku_147412.glb",
-      "qty": 624,
+      "qty": 623,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/147412_bubble.png",
       "subCollection": "Pro Titanium",
       "subCollectionId": 26191,
@@ -59354,7 +58194,7 @@
       "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/152938/android/sku_152938.glb",
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/152938/ios/sku_152938.scn",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/152938/orignal/sku_152938.glb",
-      "qty": 1118,
+      "qty": 1117,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/152938_bubble.png",
       "subCollection": "Rich Acetate",
       "subCollectionId": 26361,
@@ -60071,7 +58911,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/215462/android/sku_215462.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/215462/ios/sku_215462.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/215462/orignal/sku_215462.glb",
-      "qty": 634,
+      "qty": 633,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/215462_bubble.png",
       "subCollection": "In Bloom",
       "subCollectionId": 27752,
@@ -60534,7 +59374,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/141857/ios/sku_141857.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/141857/orignal/sku_141857.glb",
-      "qty": 1973,
+      "qty": 1959,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/141857_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -62242,7 +61082,7 @@
       "arModelAndroidUrl": "",
       "arModelIOSUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/152446/orignal/sku_152446.glb",
-      "qty": 10,
+      "qty": 9,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/152446_bubble.png",
       "subCollection": "Digi Hooper",
       "subCollectionId": 26116,
@@ -62535,7 +61375,7 @@
       "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/152966/android/sku_152966.glb",
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/152966/ios/sku_152966.scn",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/152966/orignal/sku_152966.glb",
-      "qty": 633,
+      "qty": 632,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/152966_bubble.png",
       "subCollection": "Rich Acetate",
       "subCollectionId": 26361,
@@ -63175,7 +62015,7 @@
       "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/206482/android/sku_206482.glb",
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/206482/ios/sku_206482.scn",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/206482/orignal/sku_206482.glb",
-      "qty": 207,
+      "qty": 206,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/209838_bubble.png",
       "subCollection": "BOOST",
       "subCollectionId": 26571,
@@ -63393,7 +62233,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/132538/ios/sku_132538.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/132538/orignal/sku_132538.glb",
-      "qty": 9,
+      "qty": 8,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/132538_bubble.png",
       "subCollection": "Style Cast (PC)",
       "subCollectionId": 26623,
@@ -63468,7 +62308,7 @@
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/131511/ios/sku_131511.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/131511/orignal/sku_131511.glb",
-      "qty": 112,
+      "qty": 110,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/134195_bubble.png",
       "subCollection": "HD Acetate",
       "subCollectionId": 25042,
@@ -63768,7 +62608,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/143420/ios/sku_143420.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/143420/orignal/sku_143420.glb",
-      "qty": 405,
+      "qty": 402,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/143420_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -63930,7 +62770,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/145584/ios/sku_145584.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/145584/orignal/sku_145584.glb",
-      "qty": 75,
+      "qty": 74,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/145584_bubble.png",
       "subCollection": "Lenskart Junior",
       "subCollectionId": 26491,
@@ -66893,7 +65733,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/147376/ios/sku_147376.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/147376/orignal/sku_147376.glb",
-      "qty": 870,
+      "qty": 865,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/147376_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -69029,7 +67869,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/141717/ios/sku_141717.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/141717/orignal/sku_141717.glb",
-      "qty": 61,
+      "qty": 60,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/141717_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -70261,7 +69101,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/148411/ios/sku_148411.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/148411/orignal/sku_148411.glb",
-      "qty": 17,
+      "qty": 16,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/148411_bubble.png",
       "subCollection": "JJ Tints",
       "subCollectionId": 26651,
@@ -70476,7 +69316,7 @@
       "offerName": "JJBOGO",
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 274,
+      "qty": 272,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/150101_bubble.png",
       "subCollection": "Supreme Steel",
       "subCollectionId": 26271,
@@ -70919,7 +69759,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/151041/ios/sku_151041.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/151041/orignal/sku_151041.glb",
-      "qty": 451,
+      "qty": 450,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/151041_bubble.png",
       "relatedItems": [],
       "isCygnusEnabled": true,
@@ -71669,7 +70509,7 @@
       "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/206478/android/sku_206478.glb",
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/206478/ios/sku_206478.scn",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/206478/orignal/sku_206478.glb",
-      "qty": 17,
+      "qty": 18,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/209861_bubble.png",
       "subCollection": "BOOST",
       "subCollectionId": 26571,
@@ -71741,7 +70581,7 @@
       "offerName": "",
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 186,
+      "qty": 185,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/209944_bubble.png",
       "subCollection": "Rich Acetate",
       "subCollectionId": 26361,
@@ -72031,7 +70871,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/143423/ios/sku_143423.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/143423/orignal/sku_143423.glb",
-      "qty": 866,
+      "qty": 864,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/143423_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -73627,7 +72467,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/150696/ios/sku_150696.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/150696/orignal/sku_150696.glb",
-      "qty": 640,
+      "qty": 639,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/150696_bubble.png",
       "subCollection": "Supreme Steel",
       "subCollectionId": 26271,
@@ -75554,7 +74394,7 @@
       "offerName": "LKBLUCE",
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 376,
+      "qty": 375,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/210947_bubble.png",
       "relatedItems": [],
       "isCygnusEnabled": false,
@@ -75986,7 +74826,7 @@
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/141792/ios/sku_141792.scn",
       "arModelMsiteAndDesktopUrl": "https://3d-asset-lookr.s3-ap-southeast-1.amazonaws.com/frameassets/115408/orignal/sku_115408.glb",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/141792/orignal/sku_141792.glb",
-      "qty": 1625,
+      "qty": 1622,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/141792_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -76060,7 +74900,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/141793/ios/sku_141793.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/141793/orignal/sku_141793.glb",
-      "qty": 375,
+      "qty": 372,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/141793_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -76134,7 +74974,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/141798/ios/sku_141798.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/141798/orignal/sku_141798.glb",
-      "qty": 2195,
+      "qty": 2191,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/141798_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -76208,7 +75048,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/141844/ios/sku_141844.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/141844/orignal/sku_141844.glb",
-      "qty": 116,
+      "qty": 115,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/141844_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -76282,7 +75122,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/142148/ios/sku_142148.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/142148/orignal/sku_142148.glb",
-      "qty": 350,
+      "qty": 345,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/142148_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -76652,7 +75492,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/144394/ios/sku_144394.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/144394/orignal/sku_144394.glb",
-      "qty": 822,
+      "qty": 819,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/144394_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -80245,7 +79085,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/142207/ios/sku_142207.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/142207/orignal/sku_142207.glb",
-      "qty": 1123,
+      "qty": 1121,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/142207_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -80913,7 +79753,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/144117/ios/sku_144117.scn",
       "arModelMsiteAndDesktopUrl": "www.amazon.com",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/144117/orignal/sku_144117.glb",
-      "qty": 361,
+      "qty": 360,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/144117_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -81614,7 +80454,7 @@
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
       "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/150788/android/sku_150788.glb",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/150788/orignal/sku_150788.glb",
-      "qty": 246,
+      "qty": 245,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/150788_bubble.png",
       "relatedItems": [],
       "isCygnusEnabled": true,
@@ -83541,7 +82381,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/141732/ios/sku_141732.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/141732/orignal/sku_141732.glb",
-      "qty": 75,
+      "qty": 74,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/141732_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -83615,7 +82455,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/141761/ios/sku_141761.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/141761/orignal/sku_141761.glb",
-      "qty": 1144,
+      "qty": 1143,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/141761_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -83689,7 +82529,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/141794/ios/sku_141794.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/141794/orignal/sku_141794.glb",
-      "qty": 175,
+      "qty": 173,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/141794_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -86026,7 +84866,7 @@
       "offerName": "VCEYE",
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 615,
+      "qty": 613,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/207991_bubble.png",
       "subCollection": "Classic Acetate",
       "subCollectionId": 24103,
@@ -87203,7 +86043,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/141843/ios/sku_141843.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/141843/orignal/sku_141843.glb",
-      "qty": 781,
+      "qty": 771,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/141843_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -87350,7 +86190,7 @@
       "arModelIOSUrl": "",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "",
-      "qty": 67,
+      "qty": 66,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/143304_bubble.png",
       "subCollection": "Digi Hooper",
       "subCollectionId": 26116,
@@ -87573,7 +86413,7 @@
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/137793/ios/sku_137793.scn",
       "arModelMsiteAndDesktopUrl": "https://3d-asset-lookr.s3-ap-southeast-1.amazonaws.com/frameassets/137793/orignal/sku_137793.glb",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/137793/orignal/sku_137793.glb",
-      "qty": 556,
+      "qty": 554,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/143418_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -87647,7 +86487,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/143417/ios/sku_143417.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/143417/orignal/sku_143417.glb",
-      "qty": 1569,
+      "qty": 1563,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/143417_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -91944,80 +90784,6 @@
       "prescriptionType": []
     },
     {
-      "id": "141835",
-      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/blue-block-phone-&-computer-glasses:-black-transparent-black-full-rim-wayfarer-john-jacobs-rich-acetate-jj-e11774-c2_john-jacobs-jj-e11774-c2-dupc-eyeglasses_eyeglasses_eyeglasses_j_259622_02_2022.jpg",
-      "image_url_suffix": "/j/i/blue-block-phone-&-computer-glasses:-black-transparent-black-full-rim-wayfarer-john-jacobs-rich-acetate-jj-e11774-c2_john-jacobs-jj-e11774-c2-dupc-eyeglasses_eyeglasses_eyeglasses_j_259622_02_2022.jpg",
-      "imageUrls": [],
-      "product_url": "https://www.lenskart.com/black-transparent-black-full-rim-wayfarer-medium-size-51-john-jacobs-rich-acetate-jj-e11774-c2-eyeglasses-dup.html",
-      "color": "Dual Color",
-      "size": "Medium",
-      "width": "134 mm",
-      "brand_name": "John Jacobs Computer Glasses",
-      "brand_name_en": "John Jacobs Computer Glasses",
-      "brand_logo": "https://static.lenskart.com/media/wysiwyg/blanco/images/JJ-Hi.jpg",
-      "model_name": "JJ E11774",
-      "prices": [
-        {
-          "name": "Market Price",
-          "currency_code": "INR",
-          "price": 4000
-        },
-        {
-          "name": "Lenskart Price",
-          "currency_code": "INR",
-          "price": 4000
-        }
-      ],
-      "is_tbyb": false,
-      "tags": "John Jacobs",
-      "color_options": [],
-      "totalColorAvailable": 0,
-      "is_ditto": true,
-      "classification": "eyeframe",
-      "specifications": [],
-      "wishlistCount": 3102,
-      "purchaseCount": 662,
-      "avgRating": 4.4,
-      "totalNoOfRatings": "99",
-      "hashtagList": [
-        {
-          "name": "Medium",
-          "id": 11341,
-          "property": "frame_size_id"
-        },
-        {
-          "name": "Wayfarer",
-          "id": 11343,
-          "property": "frame_shape_id"
-        },
-        {
-          "name": "John Jacobs Computer Glasses",
-          "id": 22830,
-          "property": "brandname_id"
-        },
-        {
-          "name": "Full Rim",
-          "id": 11370,
-          "property": "frametype_id"
-        }
-      ],
-      "offerName": "JJCE",
-      "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
-      "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/141835/android/sku_141835.glb",
-      "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/141835/ios/sku_141835.scn",
-      "arModelMsiteAndDesktopUrl": "",
-      "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/141835/orignal/sku_141835.glb",
-      "qty": 2,
-      "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/141835_bubble.png",
-      "subCollection": "BLU COMPUTER GLASSES",
-      "subCollectionId": 26633,
-      "relatedItems": [],
-      "isCygnusEnabled": true,
-      "isCashbackApplicable": false,
-      "prescriptionType": []
-    },
-    {
       "id": "141832",
       "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/o/john-jacobs-jj-e11820-c4-dupc-eyeglasses_g_2477.jpg",
       "image_url_suffix": "/j/o/john-jacobs-jj-e11820-c4-dupc-eyeglasses_g_2477.jpg",
@@ -92082,7 +90848,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/141832/ios/sku_141832.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/141832/orignal/sku_141832.glb",
-      "qty": 2900,
+      "qty": 2892,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/141832_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -92378,7 +91144,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/142145/ios/sku_142145.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/142145/orignal/sku_142145.glb",
-      "qty": 731,
+      "qty": 728,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/142145_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -92452,7 +91218,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/143410/ios/sku_143410.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/143410/orignal/sku_143410.glb",
-      "qty": 808,
+      "qty": 804,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/143410_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -92526,7 +91292,7 @@
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/143422/ios/sku_143422.scn",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/143422/orignal/sku_143422.glb",
-      "qty": 1320,
+      "qty": 1318,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/143422_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -92600,7 +91366,7 @@
       "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/137796/ios/sku_137796.scn",
       "arModelMsiteAndDesktopUrl": "https://3d-asset-lookr.s3-ap-southeast-1.amazonaws.com/frameassets/137796/orignal/sku_137796.glb",
       "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/137796/orignal/sku_137796.glb",
-      "qty": 227,
+      "qty": 223,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/143421_bubble.png",
       "subCollection": "BLU COMPUTER GLASSES",
       "subCollectionId": 26633,
@@ -95732,7 +94498,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/212861/android/sku_212861.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/212861/ios/sku_212861.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/212861/orignal/sku_212861.glb",
-      "qty": 2769,
+      "qty": 2768,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/212861_bubble.png",
       "subCollection": "Future Classics",
       "subCollectionId": 27571,
@@ -95803,7 +94569,7 @@
       "offerName": "JJBOGO",
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 598,
+      "qty": 597,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/213501_bubble.png",
       "subCollection": "Eco-Acetate",
       "subCollectionId": 27191,
@@ -96926,7 +95692,7 @@
       "offerName": "VCEYE",
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 2302,
+      "qty": 2301,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/216703_bubble.png",
       "subCollection": "Lenskart Hustlr",
       "subCollectionId": 26161,
@@ -96998,7 +95764,7 @@
       "offerName": "VCEYE",
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 2725,
+      "qty": 2724,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/216706_bubble.png",
       "subCollection": "Lenskart Hustlr",
       "subCollectionId": 26161,
@@ -97075,7 +95841,7 @@
       "arModelIOSUrl": "",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "",
-      "qty": 47353,
+      "qty": 47152,
       "frameColorImage": "",
       "subCollection": "",
       "inclusiveText": "",
@@ -97151,7 +95917,7 @@
       "arModelIOSUrl": "",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "",
-      "qty": 65640,
+      "qty": 65286,
       "frameColorImage": "",
       "subCollection": "",
       "inclusiveText": "",
@@ -97294,7 +96060,7 @@
       "arModelIOSUrl": "",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "",
-      "qty": 4069,
+      "qty": 4063,
       "subCollection": "Dark Knight",
       "subCollectionId": 27561,
       "inclusiveText": "",
@@ -97369,7 +96135,7 @@
       "arModelIOSUrl": "",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "",
-      "qty": 4522,
+      "qty": 4514,
       "frameColorImage": "",
       "subCollection": "Batman",
       "subCollectionId": 27481,
@@ -97445,7 +96211,7 @@
       "arModelIOSUrl": "",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "",
-      "qty": 4807,
+      "qty": 4801,
       "frameColorImage": "",
       "subCollection": "Superman",
       "subCollectionId": 27482,
@@ -97662,7 +96428,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/215377/android/sku_215377.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/215377/ios/sku_215377.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/215377/orignal/sku_215377.glb",
-      "qty": 1021,
+      "qty": 1020,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/215377_bubble.png",
       "subCollection": "Pastel Edit",
       "subCollectionId": 27761,
@@ -98012,7 +96778,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/213683/android/sku_213683.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/213683/ios/sku_213683.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/213683/orignal/sku_213683.glb",
-      "qty": 1018,
+      "qty": 947,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/213683_bubble.png",
       "subCollection": "Rich Acetate",
       "subCollectionId": 26361,
@@ -98157,7 +96923,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/213687/android/sku_213687.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/213687/ios/sku_213687.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/213687/orignal/sku_213687.glb",
-      "qty": 1458,
+      "qty": 1457,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/213687_bubble.png",
       "subCollection": "Rich Acetate",
       "subCollectionId": 26361,
@@ -98437,7 +97203,7 @@
       "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/213690/android/sku_213690.glb",
       "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/213690/ios/sku_213690.scn",
       "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/213690/orignal/sku_213690.glb",
-      "qty": 3503,
+      "qty": 3501,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/213690_bubble.png",
       "subCollection": "Rich Acetate",
       "subCollectionId": 26361,
@@ -98648,7 +97414,7 @@
       "offerName": "JJBOGO",
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 842,
+      "qty": 843,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/213503_bubble.png",
       "subCollection": "Eco-Acetate",
       "subCollectionId": 27191,
@@ -98794,7 +97560,7 @@
       "offerName": "JJBOGO",
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 898,
+      "qty": 896,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/213500_bubble.png",
       "subCollection": "Eco-Acetate",
       "subCollectionId": 27191,
@@ -98940,7 +97706,7 @@
       "offerName": "JJBOGO",
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 887,
+      "qty": 886,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/213468_bubble.png",
       "subCollection": "Eco-Acetate",
       "subCollectionId": 27191,
@@ -99012,7 +97778,7 @@
       "offerName": "VCEYE",
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 182,
+      "qty": 181,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/212975_bubble.png",
       "subCollection": "Lenskart Hustlr",
       "subCollectionId": 26161,
@@ -99520,7 +98286,7 @@
           "property": "frametype_id"
         }
       ],
-      "qty": 252,
+      "qty": 250,
       "subCollection": "Chains",
       "subCollectionId": 27411,
       "relatedItems": [],
@@ -99580,7 +98346,7 @@
           "property": "frametype_id"
         }
       ],
-      "qty": 87,
+      "qty": 85,
       "subCollection": "Chains",
       "subCollectionId": 27411,
       "relatedItems": [],
@@ -99640,7 +98406,7 @@
           "property": "frametype_id"
         }
       ],
-      "qty": 294,
+      "qty": 291,
       "subCollection": "Chains",
       "subCollectionId": 27411,
       "relatedItems": [],
@@ -99760,7 +98526,7 @@
           "property": "frametype_id"
         }
       ],
-      "qty": 349,
+      "qty": 346,
       "subCollection": "Chains",
       "subCollectionId": 27411,
       "relatedItems": [],
@@ -99880,7 +98646,7 @@
           "property": "frametype_id"
         }
       ],
-      "qty": 414,
+      "qty": 413,
       "subCollection": "Chains",
       "subCollectionId": 27411,
       "relatedItems": [],
@@ -100425,7 +99191,7 @@
       "arModelIOSUrl": "",
       "arModelMsiteAndDesktopUrl": "",
       "arModelOriginalUrl": "",
-      "qty": 240618,
+      "qty": 240617,
       "frameColorImage": "",
       "subCollection": "",
       "inclusiveText": "",
@@ -100494,7 +99260,7 @@
       "offerName": "VCEYE",
       "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
       "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
-      "qty": 1994,
+      "qty": 1992,
       "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/210451_bubble.png",
       "subCollection": "Refreshers_Feb24",
       "subCollectionId": 27622,
@@ -102635,6 +101401,1124 @@
       "isCygnusEnabled": true,
       "isCashbackApplicable": false,
       "searchProductName": "Gold Cat Eye Rimless Sunglasses",
+      "prescriptionType": []
+    },
+    {
+      "id": "205626",
+      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//o/i/gold-transparent-pink-full-rim-geometric-ojos-oj-s15223-c3-sunglasses_g_8243_8_30_22.jpg",
+      "image_url_suffix": "/o/i/gold-transparent-pink-full-rim-geometric-ojos-oj-s15223-c3-sunglasses_g_8243_8_30_22.jpg",
+      "imageUrls": [],
+      "product_url": "https://www.lenskart.com/ojos21-oj-s15223-c3-sunglasses.html",
+      "color": "Gold",
+      "size": "Wide",
+      "width": "138 mm",
+      "brand_name": "OJOS",
+      "brand_name_en": "OJOS",
+      "model_name": "OJ S15223",
+      "prices": [
+        {
+          "name": "Market Price",
+          "currency_code": "INR",
+          "price": 2000
+        },
+        {
+          "name": "Lenskart Price",
+          "currency_code": "INR",
+          "price": 2000
+        }
+      ],
+      "is_tbyb": false,
+      "tags": "OJOS",
+      "color_options": [],
+      "totalColorAvailable": 0,
+      "is_ditto": true,
+      "classification": "sunglasses",
+      "specifications": [],
+      "wishlistCount": 0,
+      "purchaseCount": 215,
+      "avgRating": 0.0,
+      "hashtagList": [
+        {
+          "name": "Wide",
+          "id": 24069,
+          "property": "frame_size_id"
+        },
+        {
+          "name": "Geometric",
+          "id": 24178,
+          "property": "frame_shape_id"
+        },
+        {
+          "name": "OJOS",
+          "id": 25001,
+          "property": "brandname_id"
+        },
+        {
+          "name": "Full Rim",
+          "id": 11370,
+          "property": "frametype_id"
+        }
+      ],
+      "offerName": "VCSUN",
+      "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
+      "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
+      "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/205626/android/sku_205626.glb",
+      "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/205626/ios/sku_205626.scn",
+      "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/205626/orignal/sku_205626.glb",
+      "qty": 220,
+      "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/205626_bubble.png",
+      "relatedItems": [],
+      "isCygnusEnabled": true,
+      "isCashbackApplicable": false,
+      "searchProductName": "Gold Geometric Full Rim Sunglasses",
+      "prescriptionType": []
+    },
+    {
+      "id": "205637",
+      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//o/i/gold-black-pink-rimless-geometric-ojos-oj-s15229-c2-sunglasses_g_8345_8_30_22.jpg",
+      "image_url_suffix": "/o/i/gold-black-pink-rimless-geometric-ojos-oj-s15229-c2-sunglasses_g_8345_8_30_22.jpg",
+      "imageUrls": [],
+      "product_url": "https://www.lenskart.com/ojos21-oj-s15229-c2-sunglasses.html",
+      "color": "Gold",
+      "size": "Extra Wide",
+      "width": "145 mm",
+      "brand_name": "OJOS",
+      "brand_name_en": "OJOS",
+      "model_name": "OJ S15229",
+      "prices": [
+        {
+          "name": "Market Price",
+          "currency_code": "INR",
+          "price": 2000
+        },
+        {
+          "name": "Lenskart Price",
+          "currency_code": "INR",
+          "price": 2000
+        }
+      ],
+      "is_tbyb": false,
+      "tags": "OJOS",
+      "color_options": [],
+      "totalColorAvailable": 0,
+      "is_ditto": true,
+      "classification": "sunglasses",
+      "specifications": [],
+      "wishlistCount": 0,
+      "purchaseCount": 183,
+      "avgRating": 0.0,
+      "hashtagList": [
+        {
+          "name": "Extra Wide",
+          "id": 24071,
+          "property": "frame_size_id"
+        },
+        {
+          "name": "Geometric",
+          "id": 24178,
+          "property": "frame_shape_id"
+        },
+        {
+          "name": "OJOS",
+          "id": 25001,
+          "property": "brandname_id"
+        },
+        {
+          "name": "Rimless",
+          "id": 11372,
+          "property": "frametype_id"
+        }
+      ],
+      "offerName": "VCSUN",
+      "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
+      "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
+      "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/205637/android/sku_205637.glb",
+      "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/205637/ios/sku_205637.scn",
+      "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/205637/orignal/sku_205637.glb",
+      "qty": 60,
+      "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/205637_bubble.png",
+      "relatedItems": [],
+      "isCygnusEnabled": true,
+      "isCashbackApplicable": false,
+      "searchProductName": "Gold Geometric Rimless Sunglasses",
+      "prescriptionType": []
+    },
+    {
+      "id": "205636",
+      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//o/i/gold-black-grey-rimless-geometric-ojos-oj-s15229-c1-sunglasses_g_8339_8_30_22.jpg",
+      "image_url_suffix": "/o/i/gold-black-grey-rimless-geometric-ojos-oj-s15229-c1-sunglasses_g_8339_8_30_22.jpg",
+      "imageUrls": [],
+      "product_url": "https://www.lenskart.com/ojos21-oj-s15229-c1-sunglasses.html",
+      "color": "Gold",
+      "size": "Extra Wide",
+      "width": "145 mm",
+      "brand_name": "OJOS",
+      "brand_name_en": "OJOS",
+      "model_name": "OJ S15229",
+      "prices": [
+        {
+          "name": "Market Price",
+          "currency_code": "INR",
+          "price": 2000
+        },
+        {
+          "name": "Lenskart Price",
+          "currency_code": "INR",
+          "price": 2000
+        }
+      ],
+      "is_tbyb": false,
+      "tags": "OJOS",
+      "color_options": [],
+      "totalColorAvailable": 0,
+      "is_ditto": true,
+      "classification": "sunglasses",
+      "specifications": [],
+      "wishlistCount": 0,
+      "purchaseCount": 46,
+      "avgRating": 0.0,
+      "hashtagList": [
+        {
+          "name": "Extra Wide",
+          "id": 24071,
+          "property": "frame_size_id"
+        },
+        {
+          "name": "Geometric",
+          "id": 24178,
+          "property": "frame_shape_id"
+        },
+        {
+          "name": "OJOS",
+          "id": 25001,
+          "property": "brandname_id"
+        },
+        {
+          "name": "Rimless",
+          "id": 11372,
+          "property": "frametype_id"
+        }
+      ],
+      "offerName": "VCSUN",
+      "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
+      "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
+      "arModelAndroidUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/205636/android/sku_205636.glb",
+      "arModelIOSUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/205636/ios/sku_205636.scn",
+      "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/205636/orignal/sku_205636.glb",
+      "qty": 89,
+      "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/205636_bubble.png",
+      "relatedItems": [],
+      "isCygnusEnabled": true,
+      "isCashbackApplicable": false,
+      "searchProductName": "Gold Geometric Rimless Sunglasses",
+      "prescriptionType": []
+    },
+    {
+      "id": "205141",
+      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//a/i/salon-welcome-kit-(aquacolor-candy-pack---10-pair,-1-calender,-1-brochure,-1-book-mark,1-welcome-card-&-qr-code-sticker)_csvfile-1652678920506-3.jpeg",
+      "image_url_suffix": "/a/i/salon-welcome-kit-(aquacolor-candy-pack---10-pair,-1-calender,-1-brochure,-1-book-mark,1-welcome-card-&-qr-code-sticker)_csvfile-1652678920506-3.jpeg",
+      "imageUrls": [],
+      "product_url": "https://www.lenskart.com/aquacolor-welcome-kit-10-pair-lens.html",
+      "suited_for": "",
+      "brand_name": "Aquacolor",
+      "brand_name_en": "Aquacolor",
+      "brand_logo": "",
+      "model_name": "Lady bug Black Dark Pink Contact Lens Case",
+      "prices": [
+        {
+          "name": "Market Price",
+          "currency_code": "INR",
+          "price": 1200
+        },
+        {
+          "name": "Lenskart Price",
+          "currency_code": "INR",
+          "price": 1200
+        }
+      ],
+      "is_tbyb": false,
+      "tags": "",
+      "color_options": [],
+      "totalColorAvailable": 0,
+      "is_ditto": false,
+      "classification": "accessories_revenue",
+      "specifications": [],
+      "wishlistCount": 4043,
+      "purchaseCount": 14906,
+      "avgRating": 0.0,
+      "hashtagList": [
+        {
+          "id": 0,
+          "property": "frame_size_id"
+        },
+        {
+          "id": 0,
+          "property": "frame_shape_id"
+        },
+        {
+          "name": "Aquacolor",
+          "id": 22666,
+          "property": "brandname_id"
+        },
+        {
+          "id": 0,
+          "property": "frametype_id"
+        }
+      ],
+      "offerName": "",
+      "clUsage": "1 Day",
+      "arModelAndroidUrl": "",
+      "arModelIOSUrl": "",
+      "arModelMsiteAndDesktopUrl": "",
+      "arModelOriginalUrl": "",
+      "qty": 235,
+      "subCollection": "",
+      "inclusiveText": "",
+      "relatedItems": [],
+      "isCygnusEnabled": false,
+      "isCashbackApplicable": false,
+      "searchProductName": "Salon Welcome Kit Aquacolor Candy Pack - 10 Pair 1 Calender 1 Brochure 1 Book Mark 1 Welcome Card QR Code Sticker",
+      "prescriptionType": []
+    },
+    {
+      "id": "201736",
+      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//o/i/brown-green-full-rim-aviator-ojos-oj-e14893-c2-eyeglasses_g_5648_11_11_2022.jpg",
+      "image_url_suffix": "/o/i/brown-green-full-rim-aviator-ojos-oj-e14893-c2-eyeglasses_g_5648_11_11_2022.jpg",
+      "imageUrls": [],
+      "product_url": "https://www.lenskart.com/ojos21-oj-e14893-c2-eyeglasses.html",
+      "color": "Brown",
+      "size": "Medium",
+      "width": "136 mm",
+      "brand_name": "OJOS",
+      "brand_name_en": "OJOS",
+      "model_name": "OJ E14893",
+      "prices": [
+        {
+          "name": "Market Price",
+          "currency_code": "INR",
+          "price": 1700
+        },
+        {
+          "name": "Lenskart Price",
+          "currency_code": "INR",
+          "price": 1700
+        }
+      ],
+      "is_tbyb": false,
+      "tags": "OJOS",
+      "color_options": [],
+      "totalColorAvailable": 0,
+      "is_ditto": true,
+      "classification": "eyeframe",
+      "specifications": [],
+      "wishlistCount": 0,
+      "purchaseCount": 234,
+      "avgRating": 4.5,
+      "totalNoOfRatings": "2",
+      "hashtagList": [
+        {
+          "name": "Medium",
+          "id": 11341,
+          "property": "frame_size_id"
+        },
+        {
+          "name": "Aviator",
+          "id": 11348,
+          "property": "frame_shape_id"
+        },
+        {
+          "name": "OJOS",
+          "id": 25001,
+          "property": "brandname_id"
+        },
+        {
+          "name": "Full Rim",
+          "id": 11370,
+          "property": "frametype_id"
+        }
+      ],
+      "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
+      "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
+      "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/201736/android/sku_201736.glb",
+      "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/201736/ios/sku_201736.scn",
+      "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/201736/orignal/sku_201736.glb",
+      "qty": 4,
+      "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/201736_bubble.png",
+      "relatedItems": [],
+      "isCygnusEnabled": true,
+      "isCashbackApplicable": false,
+      "searchProductName": "Brown Full Rim Aviator Eyeglasses",
+      "prescriptionType": []
+    },
+    {
+      "id": "153034",
+      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/silver-chains-lenskart-lk-a14747-c2-(-length--66-cm-&-width--3-mm)_img_3480_15_07_2022.jpg",
+      "image_url_suffix": "/l/i/silver-chains-lenskart-lk-a14747-c2-(-length--66-cm-&-width--3-mm)_img_3480_15_07_2022.jpg",
+      "imageUrls": [],
+      "product_url": "https://www.lenskart.com/silver-chains-lenskart-lk-a14747-c2.html",
+      "color": "",
+      "brand_name": "Lenskart",
+      "brand_name_en": "Lenskart",
+      "model_name": "Lenkart Silver Chain",
+      "prices": [
+        {
+          "name": "Market Price",
+          "currency_code": "INR",
+          "price": 499
+        },
+        {
+          "name": "Lenskart Price",
+          "currency_code": "INR",
+          "price": 349
+        }
+      ],
+      "is_tbyb": false,
+      "tags": "Chains",
+      "color_options": [],
+      "totalColorAvailable": 0,
+      "is_ditto": false,
+      "classification": "accessories_revenue",
+      "specifications": [],
+      "wishlistCount": 0,
+      "purchaseCount": 1950,
+      "avgRating": 0.0,
+      "hashtagList": [
+        {
+          "id": 0,
+          "property": "frame_size_id"
+        },
+        {
+          "id": 0,
+          "property": "frame_shape_id"
+        },
+        {
+          "name": "Lenskart",
+          "id": 10684,
+          "property": "brandname_id"
+        },
+        {
+          "id": 0,
+          "property": "frametype_id"
+        }
+      ],
+      "qty": 55,
+      "subCollection": "Chains",
+      "subCollectionId": 27411,
+      "relatedItems": [],
+      "isCygnusEnabled": false,
+      "isCashbackApplicable": false,
+      "searchProductName": "Chains for Adults",
+      "prescriptionType": []
+    },
+    {
+      "id": "153032",
+      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/silver-chains-lenskart-lk-a14746-c2-(-length--65-cm-&-width--4-mm)_img_3474_15_07_2022.jpg",
+      "image_url_suffix": "/l/i/silver-chains-lenskart-lk-a14746-c2-(-length--65-cm-&-width--4-mm)_img_3474_15_07_2022.jpg",
+      "imageUrls": [],
+      "product_url": "https://www.lenskart.com/silver-chains-lenskart-lk-a14746-c2.html",
+      "color": "",
+      "brand_name": "Lenskart",
+      "brand_name_en": "Lenskart",
+      "model_name": "Lenskart Silver Chain",
+      "prices": [
+        {
+          "name": "Market Price",
+          "currency_code": "INR",
+          "price": 499
+        },
+        {
+          "name": "Lenskart Price",
+          "currency_code": "INR",
+          "price": 349
+        }
+      ],
+      "is_tbyb": false,
+      "tags": "Chains",
+      "color_options": [],
+      "totalColorAvailable": 0,
+      "is_ditto": false,
+      "classification": "accessories_revenue",
+      "specifications": [],
+      "wishlistCount": 0,
+      "purchaseCount": 1399,
+      "avgRating": 0.0,
+      "hashtagList": [
+        {
+          "id": 0,
+          "property": "frame_size_id"
+        },
+        {
+          "id": 0,
+          "property": "frame_shape_id"
+        },
+        {
+          "name": "Lenskart",
+          "id": 10684,
+          "property": "brandname_id"
+        },
+        {
+          "id": 0,
+          "property": "frametype_id"
+        }
+      ],
+      "qty": 322,
+      "subCollection": "Chains",
+      "subCollectionId": 27411,
+      "relatedItems": [],
+      "isCygnusEnabled": false,
+      "isCashbackApplicable": false,
+      "searchProductName": "Chains for Adults",
+      "prescriptionType": []
+    },
+    {
+      "id": "153030",
+      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/gold-chains-lenskart-lk-a14745-c2-(-length--71-cm-&-width--4-mm)_img_3419_15_07_2022.jpg",
+      "image_url_suffix": "/l/i/gold-chains-lenskart-lk-a14745-c2-(-length--71-cm-&-width--4-mm)_img_3419_15_07_2022.jpg",
+      "imageUrls": [],
+      "product_url": "https://www.lenskart.com/gold-chains-lenskart-lk-a14745-c2.html",
+      "color": "",
+      "brand_name": "Lenskart",
+      "brand_name_en": "Lenskart",
+      "model_name": "Lenskart Gold Chain",
+      "prices": [
+        {
+          "name": "Market Price",
+          "currency_code": "INR",
+          "price": 499
+        },
+        {
+          "name": "Lenskart Price",
+          "currency_code": "INR",
+          "price": 349
+        }
+      ],
+      "is_tbyb": false,
+      "tags": "Chains",
+      "color_options": [],
+      "totalColorAvailable": 0,
+      "is_ditto": false,
+      "classification": "accessories_revenue",
+      "specifications": [],
+      "wishlistCount": 0,
+      "purchaseCount": 1390,
+      "avgRating": 0.0,
+      "hashtagList": [
+        {
+          "id": 0,
+          "property": "frame_size_id"
+        },
+        {
+          "id": 0,
+          "property": "frame_shape_id"
+        },
+        {
+          "name": "Lenskart",
+          "id": 10684,
+          "property": "brandname_id"
+        },
+        {
+          "id": 0,
+          "property": "frametype_id"
+        }
+      ],
+      "qty": 305,
+      "subCollection": "Chains",
+      "subCollectionId": 27411,
+      "relatedItems": [],
+      "isCygnusEnabled": false,
+      "isCashbackApplicable": false,
+      "searchProductName": "Chains for Adults",
+      "prescriptionType": []
+    },
+    {
+      "id": "153026",
+      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/silver-chains-lenskart-lk-a14743-c2-(-length--65-cm-&-width--5-mm)_img_3414_15_07_2022.jpg",
+      "image_url_suffix": "/l/i/silver-chains-lenskart-lk-a14743-c2-(-length--65-cm-&-width--5-mm)_img_3414_15_07_2022.jpg",
+      "imageUrls": [],
+      "product_url": "https://www.lenskart.com/silver-chains-lenskart-lk-a14743-c2.html",
+      "color": "",
+      "brand_name": "Lenskart",
+      "brand_name_en": "Lenskart",
+      "model_name": "Lenkart Silver Chain",
+      "prices": [
+        {
+          "name": "Market Price",
+          "currency_code": "INR",
+          "price": 499
+        },
+        {
+          "name": "Lenskart Price",
+          "currency_code": "INR",
+          "price": 349
+        }
+      ],
+      "is_tbyb": false,
+      "tags": "Chains",
+      "color_options": [],
+      "totalColorAvailable": 0,
+      "is_ditto": false,
+      "classification": "accessories_revenue",
+      "specifications": [],
+      "wishlistCount": 0,
+      "purchaseCount": 1269,
+      "avgRating": 0.0,
+      "hashtagList": [
+        {
+          "id": 0,
+          "property": "frame_size_id"
+        },
+        {
+          "id": 0,
+          "property": "frame_shape_id"
+        },
+        {
+          "name": "Lenskart",
+          "id": 10684,
+          "property": "brandname_id"
+        },
+        {
+          "id": 0,
+          "property": "frametype_id"
+        }
+      ],
+      "qty": 385,
+      "subCollection": "Chains",
+      "subCollectionId": 27411,
+      "relatedItems": [],
+      "isCygnusEnabled": false,
+      "isCashbackApplicable": false,
+      "searchProductName": "Chains for Adults",
+      "prescriptionType": []
+    },
+    {
+      "id": "153024",
+      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-lk-a14742-c2-accessories_img_0002_02_08_2022.jpg",
+      "image_url_suffix": "/l/i/lenskart-lk-a14742-c2-accessories_img_0002_02_08_2022.jpg",
+      "imageUrls": [],
+      "product_url": "https://www.lenskart.com/lenskart-lk-a14742-c2-accessories.html",
+      "color": "",
+      "size": "",
+      "width": "",
+      "suited_for": "",
+      "brand_name": "Lenskart",
+      "brand_name_en": "Lenskart",
+      "model_name": "Lenskart Gold Silver Chain",
+      "prices": [
+        {
+          "name": "Market Price",
+          "currency_code": "INR",
+          "price": 499
+        },
+        {
+          "name": "Lenskart Price",
+          "currency_code": "INR",
+          "price": 349
+        }
+      ],
+      "is_tbyb": false,
+      "tags": "Chains",
+      "color_options": [],
+      "totalColorAvailable": 0,
+      "is_ditto": false,
+      "classification": "accessories_revenue",
+      "specifications": [],
+      "wishlistCount": 0,
+      "purchaseCount": 1331,
+      "avgRating": 0.0,
+      "hashtagList": [
+        {
+          "name": "",
+          "id": 0,
+          "property": "frame_size_id"
+        },
+        {
+          "name": "",
+          "id": 0,
+          "property": "frame_shape_id"
+        },
+        {
+          "name": "Lenskart",
+          "id": 10684,
+          "property": "brandname_id"
+        },
+        {
+          "name": "",
+          "id": 0,
+          "property": "frametype_id"
+        }
+      ],
+      "offerName": "",
+      "qty": 358,
+      "frameColorImage": "",
+      "subCollection": "Chains",
+      "subCollectionId": 27411,
+      "relatedItems": [],
+      "isCygnusEnabled": false,
+      "isCashbackApplicable": false,
+      "searchProductName": "Chains for Adults",
+      "prescriptionType": []
+    },
+    {
+      "id": "153023",
+      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/silver-chains-lenskart-lk-a14742-c1-(-length--66-cm-&-width--4-mm)_img_3425_15_07_2022.jpg",
+      "image_url_suffix": "/l/i/silver-chains-lenskart-lk-a14742-c1-(-length--66-cm-&-width--4-mm)_img_3425_15_07_2022.jpg",
+      "imageUrls": [],
+      "product_url": "https://www.lenskart.com/silver-chains-lenskart-lk-a14742-c1.html",
+      "color": "",
+      "brand_name": "Lenskart",
+      "brand_name_en": "Lenskart",
+      "model_name": "Lenkart Silver Chain",
+      "prices": [
+        {
+          "name": "Market Price",
+          "currency_code": "INR",
+          "price": 499
+        },
+        {
+          "name": "Lenskart Price",
+          "currency_code": "INR",
+          "price": 349
+        }
+      ],
+      "is_tbyb": false,
+      "tags": "Chains",
+      "color_options": [],
+      "totalColorAvailable": 0,
+      "is_ditto": false,
+      "classification": "accessories_revenue",
+      "specifications": [],
+      "wishlistCount": 0,
+      "purchaseCount": 1382,
+      "avgRating": 0.0,
+      "hashtagList": [
+        {
+          "id": 0,
+          "property": "frame_size_id"
+        },
+        {
+          "id": 0,
+          "property": "frame_shape_id"
+        },
+        {
+          "name": "Lenskart",
+          "id": 10684,
+          "property": "brandname_id"
+        },
+        {
+          "id": 0,
+          "property": "frametype_id"
+        }
+      ],
+      "qty": 377,
+      "subCollection": "Chains",
+      "subCollectionId": 27411,
+      "relatedItems": [],
+      "isCygnusEnabled": false,
+      "isCashbackApplicable": false,
+      "searchProductName": "Chains for Adults",
+      "prescriptionType": []
+    },
+    {
+      "id": "153022",
+      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/silver-chains-lenskart-lk-a14741-c2-(-length--65-cm-&-width--6-mm)_img_3437_15_07_2022.jpg",
+      "image_url_suffix": "/l/i/silver-chains-lenskart-lk-a14741-c2-(-length--65-cm-&-width--6-mm)_img_3437_15_07_2022.jpg",
+      "imageUrls": [],
+      "product_url": "https://www.lenskart.com/silver-chains-lenskart-lk-a14741-c2.html",
+      "color": "",
+      "brand_name": "Lenskart",
+      "brand_name_en": "Lenskart",
+      "model_name": "Lenskart Silver Chain",
+      "prices": [
+        {
+          "name": "Market Price",
+          "currency_code": "INR",
+          "price": 499
+        },
+        {
+          "name": "Lenskart Price",
+          "currency_code": "INR",
+          "price": 349
+        }
+      ],
+      "is_tbyb": false,
+      "tags": "Chains",
+      "color_options": [],
+      "totalColorAvailable": 0,
+      "is_ditto": false,
+      "classification": "accessories_revenue",
+      "specifications": [],
+      "wishlistCount": 0,
+      "purchaseCount": 1313,
+      "avgRating": 0.0,
+      "hashtagList": [
+        {
+          "id": 0,
+          "property": "frame_size_id"
+        },
+        {
+          "id": 0,
+          "property": "frame_shape_id"
+        },
+        {
+          "name": "Lenskart",
+          "id": 10684,
+          "property": "brandname_id"
+        },
+        {
+          "id": 0,
+          "property": "frametype_id"
+        }
+      ],
+      "qty": 379,
+      "subCollection": "Chains",
+      "subCollectionId": 27411,
+      "relatedItems": [],
+      "isCygnusEnabled": false,
+      "isCashbackApplicable": false,
+      "searchProductName": "Chains for Adults",
+      "prescriptionType": []
+    },
+    {
+      "id": "153018",
+      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/silver-chains-lenskart-lk-a14740-c1-(-length--68-cm-&-width--6-mm)_img_3409_15_07_2022.jpg",
+      "image_url_suffix": "/l/i/silver-chains-lenskart-lk-a14740-c1-(-length--68-cm-&-width--6-mm)_img_3409_15_07_2022.jpg",
+      "imageUrls": [],
+      "product_url": "https://www.lenskart.com/silver-chains-lenskart-lk-a14740-c1.html",
+      "color": "",
+      "brand_name": "Lenskart",
+      "brand_name_en": "Lenskart",
+      "model_name": "Lenskart Silver Chain",
+      "prices": [
+        {
+          "name": "Market Price",
+          "currency_code": "INR",
+          "price": 499
+        },
+        {
+          "name": "Lenskart Price",
+          "currency_code": "INR",
+          "price": 349
+        }
+      ],
+      "is_tbyb": false,
+      "tags": "Chains",
+      "color_options": [],
+      "totalColorAvailable": 0,
+      "is_ditto": false,
+      "classification": "accessories_revenue",
+      "specifications": [],
+      "wishlistCount": 0,
+      "purchaseCount": 1210,
+      "avgRating": 0.0,
+      "hashtagList": [
+        {
+          "id": 0,
+          "property": "frame_size_id"
+        },
+        {
+          "id": 0,
+          "property": "frame_shape_id"
+        },
+        {
+          "name": "Lenskart",
+          "id": 10684,
+          "property": "brandname_id"
+        },
+        {
+          "id": 0,
+          "property": "frametype_id"
+        }
+      ],
+      "offerName": "",
+      "cmsLinkAndroid": "",
+      "cmsLinkIos": "",
+      "arModelAndroidUrl": "",
+      "arModelIOSUrl": "",
+      "arModelMsiteAndDesktopUrl": "",
+      "arModelOriginalUrl": "",
+      "qty": 337,
+      "subCollection": "Chains",
+      "subCollectionId": 27411,
+      "relatedItems": [],
+      "isCygnusEnabled": false,
+      "isCashbackApplicable": false,
+      "searchProductName": "Chains for Adults",
+      "prescriptionType": []
+    },
+    {
+      "id": "152749",
+      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//i/i/lenskart-protect-insurance_csvfile-1650057891407-insure3.png",
+      "image_url_suffix": "/i/i/lenskart-protect-insurance_csvfile-1650057891407-insure3.png",
+      "imageUrls": [],
+      "product_url": "https://www.lenskart.com/insurance-vii.html",
+      "color": "Yellow",
+      "suited_for": "",
+      "brand_name": "Insurance",
+      "brand_name_en": "Insurance",
+      "model_name": "Insurance VII",
+      "prices": [
+        {
+          "name": "Market Price",
+          "currency_code": "INR",
+          "price": 399
+        },
+        {
+          "name": "Lenskart Price",
+          "currency_code": "INR",
+          "price": 399
+        }
+      ],
+      "is_tbyb": false,
+      "tags": "",
+      "color_options": [],
+      "totalColorAvailable": 0,
+      "is_ditto": false,
+      "classification": "loyalty_services",
+      "specifications": [],
+      "wishlistCount": 1,
+      "purchaseCount": 314740,
+      "avgRating": 4.85,
+      "totalNoOfRatings": "7",
+      "hashtagList": [
+        {
+          "id": 0,
+          "property": "frame_size_id"
+        },
+        {
+          "id": 0,
+          "property": "frame_shape_id"
+        },
+        {
+          "name": "Insurance",
+          "id": 22546,
+          "property": "brandname_id"
+        },
+        {
+          "id": 0,
+          "property": "frametype_id"
+        }
+      ],
+      "offerName": "",
+      "cmsLinkAndroid": "",
+      "cmsLinkIos": "",
+      "arModelAndroidUrl": "",
+      "arModelIOSUrl": "",
+      "arModelMsiteAndDesktopUrl": "",
+      "arModelOriginalUrl": "",
+      "qty": 135831,
+      "subCollection": "",
+      "relatedItems": [],
+      "isCygnusEnabled": false,
+      "isCashbackApplicable": false,
+      "searchProductName": "Lenskart Protect Insurance",
+      "prescriptionType": []
+    },
+    {
+      "id": "152748",
+      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//i/i/lenskart-protect-insurance_csvfile-1650057855936-insure2.png",
+      "image_url_suffix": "/i/i/lenskart-protect-insurance_csvfile-1650057855936-insure2.png",
+      "imageUrls": [],
+      "product_url": "https://www.lenskart.com/insurance-vi.html",
+      "color": "Yellow",
+      "suited_for": "",
+      "brand_name": "Insurance",
+      "brand_name_en": "Insurance",
+      "model_name": "Insurance VI",
+      "prices": [
+        {
+          "name": "Market Price",
+          "currency_code": "INR",
+          "price": 299
+        },
+        {
+          "name": "Lenskart Price",
+          "currency_code": "INR",
+          "price": 299
+        }
+      ],
+      "is_tbyb": false,
+      "tags": "",
+      "color_options": [],
+      "totalColorAvailable": 0,
+      "is_ditto": false,
+      "classification": "loyalty_services",
+      "specifications": [],
+      "wishlistCount": 1,
+      "purchaseCount": 1057611,
+      "avgRating": 4.45,
+      "totalNoOfRatings": "28",
+      "hashtagList": [
+        {
+          "id": 0,
+          "property": "frame_size_id"
+        },
+        {
+          "id": 0,
+          "property": "frame_shape_id"
+        },
+        {
+          "name": "Insurance",
+          "id": 22546,
+          "property": "brandname_id"
+        },
+        {
+          "id": 0,
+          "property": "frametype_id"
+        }
+      ],
+      "offerName": "",
+      "cmsLinkAndroid": "",
+      "cmsLinkIos": "",
+      "arModelAndroidUrl": "",
+      "arModelIOSUrl": "",
+      "arModelMsiteAndDesktopUrl": "",
+      "arModelOriginalUrl": "",
+      "qty": 148545,
+      "subCollection": "",
+      "relatedItems": [],
+      "isCygnusEnabled": false,
+      "isCashbackApplicable": false,
+      "searchProductName": "Lenskart Protect Insurance",
+      "prescriptionType": []
+    },
+    {
+      "id": "152747",
+      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//i/i/lenskart-protect-insurance_csvfile-1650057798731-insure1.png",
+      "image_url_suffix": "/i/i/lenskart-protect-insurance_csvfile-1650057798731-insure1.png",
+      "imageUrls": [],
+      "product_url": "https://www.lenskart.com/insurance-v.html",
+      "color": "Yellow",
+      "suited_for": "",
+      "brand_name": "Insurance",
+      "brand_name_en": "Insurance",
+      "model_name": "Insurance V",
+      "prices": [
+        {
+          "name": "Market Price",
+          "currency_code": "INR",
+          "price": 199
+        },
+        {
+          "name": "Lenskart Price",
+          "currency_code": "INR",
+          "price": 199
+        }
+      ],
+      "is_tbyb": false,
+      "tags": "",
+      "color_options": [],
+      "totalColorAvailable": 0,
+      "is_ditto": false,
+      "classification": "loyalty_services",
+      "specifications": [],
+      "wishlistCount": 12,
+      "purchaseCount": 399984,
+      "avgRating": 4.3,
+      "totalNoOfRatings": "12",
+      "hashtagList": [
+        {
+          "id": 0,
+          "property": "frame_size_id"
+        },
+        {
+          "id": 0,
+          "property": "frame_shape_id"
+        },
+        {
+          "name": "Insurance",
+          "id": 22546,
+          "property": "brandname_id"
+        },
+        {
+          "id": 0,
+          "property": "frametype_id"
+        }
+      ],
+      "offerName": "",
+      "cmsLinkAndroid": "",
+      "cmsLinkIos": "",
+      "arModelAndroidUrl": "",
+      "arModelIOSUrl": "",
+      "arModelMsiteAndDesktopUrl": "",
+      "arModelOriginalUrl": "",
+      "qty": 167572,
+      "subCollection": "",
+      "relatedItems": [],
+      "isCygnusEnabled": false,
+      "isCashbackApplicable": false,
+      "searchProductName": "Lenskart Protect Insurance",
+      "prescriptionType": []
+    },
+    {
+      "id": "152702",
+      "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/blue-gunmetal-full-rim-round-john-jacobs-rich-acetate-jj-e13741-c5-eyeglasses_img_4601_01_03_2024.jpg",
+      "image_url_suffix": "/j/i/blue-gunmetal-full-rim-round-john-jacobs-rich-acetate-jj-e13741-c5-eyeglasses_img_4601_01_03_2024.jpg",
+      "imageUrls": [],
+      "product_url": "https://www.lenskart.com/john-jacobs-jj-e13741-c5-eyeglasses.html",
+      "color": "Blue",
+      "occasion": "",
+      "size": "Medium",
+      "width": "136 mm",
+      "suited_for": "",
+      "brand_name": "John Jacobs",
+      "brand_name_en": "John Jacobs",
+      "model_name": "JJ E13741",
+      "prices": [
+        {
+          "name": "Market Price",
+          "currency_code": "INR",
+          "price": 5000
+        },
+        {
+          "name": "Lenskart Price",
+          "currency_code": "INR",
+          "price": 5000
+        }
+      ],
+      "is_tbyb": false,
+      "tags": "John Jacobs",
+      "color_options": [],
+      "totalColorAvailable": 0,
+      "is_ditto": false,
+      "classification": "eyeframe",
+      "specifications": [],
+      "wishlistCount": 0,
+      "purchaseCount": 0,
+      "avgRating": 0.0,
+      "hashtagList": [
+        {
+          "name": "Medium",
+          "id": 11341,
+          "property": "frame_size_id"
+        },
+        {
+          "name": "Round",
+          "id": 11346,
+          "property": "frame_shape_id"
+        },
+        {
+          "name": "John Jacobs",
+          "id": 10738,
+          "property": "brandname_id"
+        },
+        {
+          "name": "Full Rim",
+          "id": 11370,
+          "property": "frametype_id"
+        }
+      ],
+      "offerName": "JJBOGO",
+      "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
+      "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
+      "qty": 1485,
+      "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/152702_bubble.png",
+      "subCollection": "Rich Acetate",
+      "subCollectionId": 26361,
+      "inclusiveText": "",
+      "relatedItems": [],
+      "isCygnusEnabled": false,
+      "isCashbackApplicable": false,
+      "searchProductName": "Full Rim Round Eyeglasses",
       "prescriptionType": []
     }
   ]
